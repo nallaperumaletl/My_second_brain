@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scripts/Just.md",
+                "file": "TCL/Tricks & Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scripts/Just.md",
+                "file": "TCL/Tricks & Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scripts/Just.md",
+                "file": "TCL/Tricks & Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scripts/Just.md"
+                "file": "TCL/Tricks & Tips.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "f61a5c63adcb2646",
   "lastOpenFiles": [
-    "Hello.md",
     "scripts/Just.md",
+    "TCL/Tricks & Tips.md",
+    "TCL",
+    "Hello.md",
     "scripts/core_schema_ddl.sql",
     "scripts",
     "New folder"
