@@ -25,3 +25,7 @@ Thanks. I have gone through the link you shared. One part which seems confusing 
     – [torek](https://stackoverflow.com/users/1256452/torek "470,739 reputation")
     
      [Jul](https://stackoverflow.com/questions/72828833/git-pull-command#comment128641269_72829019)
+
+git remote add origin https://github.com/nallaperumaletl/My_second_brain.git
+git branch -M main
+git push -u origin main
