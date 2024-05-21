@@ -38,9 +38,19 @@
                 "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "46e4ba63fea7e44d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md"
               }
             }
           }
@@ -168,10 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d308e96761ccfa1",
+  "active": "46e4ba63fea7e44d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
+    "Untitled.md",
     "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
     "TCL/Git Useful cmd.md",
     "Excalidraw",
