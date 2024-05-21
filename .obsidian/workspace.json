@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCL/Tricks & Tips.md",
+                "file": "TCL/Git Useful cmd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCL/Tricks & Tips.md",
+                "file": "TCL/Git Useful cmd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCL/Tricks & Tips.md",
+                "file": "TCL/Git Useful cmd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCL/Tricks & Tips.md"
+                "file": "TCL/Git Useful cmd.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "f61a5c63adcb2646",
   "lastOpenFiles": [
-    "scripts/Just.md",
     "TCL/Tricks & Tips.md",
-    "TCL",
+    "TCL/Git Useful cmd.md",
     "Hello.md",
+    "scripts/Just.md",
+    "TCL",
     "scripts/core_schema_ddl.sql",
     "scripts",
     "New folder"
