@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My linux.md",
+                "file": "TCL/Git Useful cmd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My linux.md",
+                "file": "TCL/Git Useful cmd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My linux.md",
+                "file": "TCL/Git Useful cmd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My linux.md"
+                "file": "TCL/Git Useful cmd.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "46e4ba63fea7e44d",
   "lastOpenFiles": [
+    "My linux.md",
     "TCL/Git Useful cmd.md",
     "New file in Ubuntu.md",
     "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
