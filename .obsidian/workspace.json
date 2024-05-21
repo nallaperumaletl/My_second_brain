@@ -18,8 +18,29 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a207f63e87b20a70",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2d308e96761ccfa1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCL/Git Useful cmd.md",
+                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCL/Git Useful cmd.md",
+                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCL/Git Useful cmd.md"
+                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md"
               }
             }
           }
@@ -143,13 +164,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f61a5c63adcb2646",
+  "active": "2d308e96761ccfa1",
   "lastOpenFiles": [
-    "TCL/Tricks & Tips.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
+    "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
     "TCL/Git Useful cmd.md",
+    "Excalidraw",
+    "TCL/Tricks & Tips.md",
     "Hello.md",
     "scripts/Just.md",
     "TCL",
