@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "TCL/Git Useful cmd.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -129,13 +129,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da7cf3315902375e",
+  "active": "f61a5c63adcb2646",
   "lastOpenFiles": [
     "TCL/Tricks & Tips.md",
     "TCL/Git Useful cmd.md",
