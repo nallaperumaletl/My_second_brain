@@ -29,7 +29,7 @@ git branch
   
 
 
-github access token for Obsidain- My_second_brain Repository ends at may-21-2025  
+github access Token for Obsidain- My_second_brain Repository ends at may-21-2025  
 
 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
 
