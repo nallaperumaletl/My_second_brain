@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "www.google.com.md",
+                "file": "bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "www.google.com.md",
+                "file": "bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "www.google.com.md",
+                "file": "bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "www.google.com.md"
+                "file": "bash.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "1f244694862c5ccc",
   "lastOpenFiles": [
-    "bash.md",
     "www.google.com.md",
+    "bash.md",
     "about obsidian.md",
     "My linux.md",
     "Untitled.md",
