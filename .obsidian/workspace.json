@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCL/Git Useful cmd.md",
+                "file": "Trial&Error/Trial.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
+                "file": "Trial&Error/Trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
+                "file": "Trial&Error/Trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md"
+                "file": "Trial&Error/Trial.md"
               }
             }
           }
@@ -148,8 +148,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85b5b9b748906bee",
+  "active": "f61a5c63adcb2646",
   "lastOpenFiles": [
+    "TCL/Git Useful cmd.md",
+    "Trial&Error/Trial.md",
+    "Trial&Error",
     "scripts/Just.md",
     "My linux.md",
     "new note at 1.45 am.md",
@@ -157,7 +160,6 @@
     "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "Untitled.md",
     "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "TCL/Git Useful cmd.md",
     "Excalidraw",
     "TCL/Tricks & Tips.md",
     "Hello.md",
