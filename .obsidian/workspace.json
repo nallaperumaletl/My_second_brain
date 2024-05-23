@@ -18,39 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "a207f63e87b20a70",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2d308e96761ccfa1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "46e4ba63fea7e44d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +148,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46e4ba63fea7e44d",
+  "active": "85b5b9b748906bee",
   "lastOpenFiles": [
     "scripts/Just.md",
     "My linux.md",
