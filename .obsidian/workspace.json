@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My linux.md",
+                "file": "www.google.com.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My linux.md",
+                "file": "www.google.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My linux.md",
+                "file": "www.google.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My linux.md"
+                "file": "www.google.com.md"
               }
             }
           },
@@ -160,9 +160,12 @@
   "active": "1f244694862c5ccc",
   "lastOpenFiles": [
     "bash.md",
-    "2024-05-23.md",
     "www.google.com.md",
+    "about obsidian.md",
     "My linux.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "2024-05-23.md",
     "scripts/Just.md",
     "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "Trial&Error/Trial.md",
