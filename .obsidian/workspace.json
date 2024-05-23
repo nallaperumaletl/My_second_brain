@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bash.md",
+                "file": "2024-05-23.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bash.md",
+                "file": "2024-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bash.md",
+                "file": "2024-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bash.md"
+                "file": "2024-05-23.md"
               }
             }
+          },
+          {
+            "id": "653cb8c53ddae23e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,16 +152,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f61a5c63adcb2646",
+  "active": "653cb8c53ddae23e",
   "lastOpenFiles": [
-    "My linux.md",
-    "bash.md",
-    "scripts/Just.md",
-    "2024-05-23.md",
     "Trial&Error/Trial.md",
+    "scripts/Just.md",
+    "bash.md",
+    "My linux.md",
+    "2024-05-23.md",
     "TCL/Git Useful cmd.md",
     "Trial&Error",
     "new note at 1.45 am.md",

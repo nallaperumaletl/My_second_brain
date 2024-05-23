@@ -1,4 +1,6 @@
 {
   "readableLineLength": false,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "attachmentFolderPath": "",
+  "propertiesInDocument": "visible"
 }
