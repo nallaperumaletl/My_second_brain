@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0042e86add62e9c",
+        "id": "6c3ff79c22931da4",
         "type": "tabs",
         "children": [
           {
-            "id": "f61a5c63adcb2646",
+            "id": "1f244694862c5ccc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "My linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "My linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "My linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23.md"
+                "file": "My linux.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,18 +157,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "653cb8c53ddae23e",
+  "active": "1f244694862c5ccc",
   "lastOpenFiles": [
-    "Trial&Error/Trial.md",
-    "scripts/Just.md",
     "bash.md",
-    "My linux.md",
     "2024-05-23.md",
+    "www.google.com.md",
+    "My linux.md",
+    "scripts/Just.md",
+    "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
+    "Trial&Error/Trial.md",
     "TCL/Git Useful cmd.md",
     "Trial&Error",
     "new note at 1.45 am.md",
     "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
     "Excalidraw",
     "TCL/Tricks & Tips.md",
