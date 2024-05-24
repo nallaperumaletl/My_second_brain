@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,7 +158,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab28350885ba51a",
+  "active": "653cb8c53ddae23e",
   "lastOpenFiles": [
     "TCL/Tricks & Tips.md",
     "TCL/Git Useful cmd.md",
