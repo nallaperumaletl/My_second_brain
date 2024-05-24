@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +160,8 @@
   "active": "1ab28350885ba51a",
   "lastOpenFiles": [
     "TCL/Tricks & Tips.md",
+    "TCL/Git Useful cmd.md",
+    "scripts/Just.md",
     "Hello.md",
     "2024-05-23.md",
     "Untitled.md",
@@ -168,15 +170,12 @@
     "My linux.md",
     "bash.md",
     "about obsidian.md",
-    "scripts/Just.md",
     "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "Trial&Error/Trial.md",
-    "TCL/Git Useful cmd.md",
     "Trial&Error",
     "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
     "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
     "Excalidraw",
-    "Hello.md",
     "TCL",
     "scripts/core_schema_ddl.sql",
     "scripts",
