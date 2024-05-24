@@ -15,3 +15,9 @@ ls $the_path
 ### Hello
 
 
+|  Name   | Age | City        |
+| :-----: | --- | ----------- |
+|  Nalla  | 67  | Madurai     |
+| Perumal | 45  | Chennai     |
+|  Mani   | 33  | Kanchipuram |
+|   Anu   | 23  | Trichy      |
