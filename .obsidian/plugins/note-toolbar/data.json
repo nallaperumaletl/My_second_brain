@@ -8,15 +8,128 @@
       "defaultStyles": [
         "border",
         "even",
-        "sticky"
+        "sticky",
+        "button"
       ],
-      "items": [],
+      "items": [
+        {
+          "label": "",
+          "icon": "lucide-home",
+          "link": "TCL/Tricks & Tips.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "label": "",
+          "icon": "",
+          "link": "Templater: Create new note from template",
+          "linkAttr": {
+            "commandId": "templater-obsidian:create-new-note-from-template",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "from templater",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "label": "daily note",
+          "icon": "lucide-calendar-check-2",
+          "link": "2024-05-23.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
       "mobileStyles": [],
       "name": "Obs_toolbar",
       "position": {
         "desktop": {
           "allViews": {
-            "position": "props"
+            "position": "top"
           }
         },
         "mobile": {
@@ -30,7 +143,7 @@
           }
         }
       },
-      "updated": "2024-05-24T15:54:46.907Z"
+      "updated": "2024-05-24T16:02:59.746Z"
     }
   ],
   "version": 20240426.1
