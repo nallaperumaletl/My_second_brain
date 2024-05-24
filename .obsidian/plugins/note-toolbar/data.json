@@ -1,5 +1,10 @@
 {
-  "folderMappings": [],
+  "folderMappings": [
+    {
+      "folder": "*",
+      "toolbar": "Obs_toolbar"
+    }
+  ],
   "icon": "circle-ellipsis",
   "showEditInFabMenu": false,
   "toolbarProp": "notetoolbar",

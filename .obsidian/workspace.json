@@ -23,8 +23,12 @@
             "id": "04c13ce640422c50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TCL/Tricks & Tips.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -85,22 +89,16 @@
     "type": "split",
     "children": [
       {
-        "id": "809ff872cac9284b",
+        "id": "93c21eaa67545f12",
         "type": "tabs",
         "children": [
           {
-            "id": "39de48a88736e369",
+            "id": "da7cf3315902375e",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "TCL/Tricks & Tips.md"
               }
             }
           },
@@ -110,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TCL/Tricks & Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,11 +126,20 @@
             }
           },
           {
-            "id": "da7cf3315902375e",
+            "id": "39de48a88736e369",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "TCL/Tricks & Tips.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
             }
           },
           {
@@ -142,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,16 +166,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "04c13ce640422c50",
+  "active": "da7cf3315902375e",
   "lastOpenFiles": [
+    "TCL/Tricks & Tips.md",
     "2024-05-23.md",
+    "Untitled.md",
     "new note at 1.45 am.md",
     "Untitled 1.md",
     "www.google.com.md",
-    "Untitled.md",
     "My linux.md",
     "bash.md",
     "about obsidian.md",
@@ -180,7 +189,6 @@
     "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
     "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
     "Excalidraw",
-    "TCL/Tricks & Tips.md",
     "Hello.md",
     "TCL",
     "scripts/core_schema_ddl.sql",
