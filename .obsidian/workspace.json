@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "helloman.md",
+                "file": "Neuron_Migration_Validation/query_extractor.sh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "helloman.md"
+                "file": "Neuron_Migration_Validation/query_extractor.sh.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "helloman.md",
+                "file": "Neuron_Migration_Validation/query_extractor.sh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "helloman.md",
+                "file": "Neuron_Migration_Validation/query_extractor.sh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,12 +160,16 @@
   },
   "active": "1ab28350885ba51a",
   "lastOpenFiles": [
+    "scripts/Git Useful cmd.md",
+    "Neuron_Migration_Validation/query_extractor.sh.md",
+    "Neuron_Migration_Validation",
+    "Untitled.md",
+    "Untitled 1.md",
+    "TCL/Tricks & Tips.md",
+    "helloman.md",
     "Hello.md",
     "2024-05-23.md",
-    "helloman.md",
     "scripts/Just.md",
-    "TCL/Tricks & Tips.md",
-    "TCL/Git Useful cmd.md",
     "new note at 1.45 am.md",
     "www.google.com.md",
     "My linux.md",
