@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3ff79c22931da4",
+        "id": "b00102e56136db09",
         "type": "tabs",
         "children": [
           {
-            "id": "bcc21dcd4b294721",
+            "id": "1ab28350885ba51a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Hello.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Hello.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,11 +157,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bcc21dcd4b294721",
+  "active": "1ab28350885ba51a",
   "lastOpenFiles": [
-    "2024-05-23.md",
-    "Untitled 1.md",
     "TCL/Tricks & Tips.md",
+    "Hello.md",
+    "2024-05-23.md",
     "Untitled.md",
     "new note at 1.45 am.md",
     "www.google.com.md",
