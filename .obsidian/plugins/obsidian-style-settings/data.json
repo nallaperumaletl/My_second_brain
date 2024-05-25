@@ -16,5 +16,8 @@
   "obsidian-prism-theme@@pt-colored-folders-files-match": false,
   "obsidian-prism-theme@@pt-icon-folder-accent": true,
   "obsidian-prism-theme@@pt-icons-accent": false,
-  "obsidian-prism-theme@@graph-line-custom-color-dt": "#C4C7CA"
+  "obsidian-prism-theme@@graph-line-custom-color-dt": "#C4C7CA",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "none"
 }
