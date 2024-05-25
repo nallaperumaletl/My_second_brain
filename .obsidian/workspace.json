@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Neuron_Migration_Validation/query_extractor.sh.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -35,7 +35,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 318.5
   },
   "right": {
     "id": "51458ac6ba7da6d9",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuron_Migration_Validation/query_extractor.sh.md"
+                "file": "Neuron_Migration_Validation/table-profiler.sh.md"
               }
             }
           },
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuron_Migration_Validation/query_extractor.sh.md",
+                "file": "Neuron_Migration_Validation/table-profiler.sh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuron_Migration_Validation/query_extractor.sh.md",
+                "file": "Neuron_Migration_Validation/table-profiler.sh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,10 +175,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1edbdcc6b4611324",
+  "active": "d374c21b64f8d1a7",
   "lastOpenFiles": [
-    "Neuron_Migration_Validation/table-profiler.sh.md",
     "Neuron_Migration_Validation/query_extractor.sh.md",
+    "Neuron_Migration_Validation/table-profiler.sh.md",
     "TCL/Tricks & Tips.md",
     "2024-05-23.md",
     "Template/Callout.md",
