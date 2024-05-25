@@ -30,5 +30,13 @@
       ],
       "key": "H"
     }
+  ],
+  "ink:insert-copied-writing": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }

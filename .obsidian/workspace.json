@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024-05-23.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -189,6 +189,8 @@
   },
   "active": "f729bd8212fbcdab",
   "lastOpenFiles": [
+    "Assets/Attachments/Ink/Writing/2024.4.26 - 0.12am.writing",
+    "Assets/Attachments/Ink/Writing/2024.4.26 - 0.11am.writing",
     "Neuron_Migration_Validation/table-profiler.sh.md",
     "Assets/Attachments/Ink/Writing/2024.4.26 - 0.06am.writing",
     "BigData-Quiz/week-3 Quiz.md",
@@ -233,7 +235,6 @@
     "bash.md",
     "about obsidian.md",
     "Trial&Error",
-    "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md"
   ]
 }
