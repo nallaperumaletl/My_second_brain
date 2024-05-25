@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuron_Migration_Validation/metadata-collector.sh.md",
+                "file": "2024-05-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.5
   },
   "right": {
     "id": "51458ac6ba7da6d9",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuron_Migration_Validation/metadata-collector.sh.md"
+                "file": "2024-05-23.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuron_Migration_Validation/metadata-collector.sh.md",
+                "file": "2024-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuron_Migration_Validation/metadata-collector.sh.md",
+                "file": "2024-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,8 +189,10 @@
   },
   "active": "3857a41a028ca205",
   "lastOpenFiles": [
-    "Neuron_Migration_Validation/metadata-processor.sh.md",
+    "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "Neuron_Migration_Validation/metadata-collector.sh.md",
+    "Neuron_Migration_Validation/metadata-processor.sh.md",
     "Neuron_Migration_Validation/table-profiler.sh.md",
     "Neuron_Migration_Validation/query_extractor.sh.md",
     "scripts/Git Useful cmd.md",
@@ -210,9 +212,7 @@
     "My linux.md",
     "bash.md",
     "about obsidian.md",
-    "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "Trial&Error",
-    "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
     "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
     "Excalidraw",
     "TCL",
