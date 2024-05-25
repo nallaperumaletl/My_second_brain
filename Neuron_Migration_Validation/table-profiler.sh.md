@@ -1,4 +1,6 @@
 #neuronscripts 
+# Script
+
 ```sh
 #1 - Target Database Name
 #2 - Target Table Name

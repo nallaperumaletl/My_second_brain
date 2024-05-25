@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "Neuron_Migration_Validation/query_extractor.sh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23.md"
+                "file": "Neuron_Migration_Validation/query_extractor.sh.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "Neuron_Migration_Validation/query_extractor.sh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "Neuron_Migration_Validation/query_extractor.sh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,15 +159,15 @@
   },
   "active": "1ab28350885ba51a",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Neuron_Migration_Validation/table-profiler.sh.md",
+    "Neuron_Migration_Validation/query_extractor.sh.md",
     "2024-05-23.md",
+    "Untitled 1.md",
     "Untitled.md",
     "Untitled 2.md",
     "Trial&Error/Trial.md",
-    "Neuron_Migration_Validation/table-profiler.sh.md",
     "Hello.md",
     "helloman.md",
-    "Neuron_Migration_Validation/query_extractor.sh.md",
     "scripts/Git Useful cmd.md",
     "Neuron_Migration_Validation",
     "TCL/Tricks & Tips.md",

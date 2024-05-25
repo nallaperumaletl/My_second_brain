@@ -1,5 +1,5 @@
 {
-  "minimal-style@@h1-l": false,
+  "minimal-style@@h1-l": true,
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
   "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-minimal-dt",
   "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-filled-dt",
@@ -36,5 +36,10 @@
   "anuppuccin-theme-settings@@anp-file-label-align": "0",
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
-  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
+  "minimal-style@@code-function@@light": "#60CE62",
+  "minimal-style@@minimal-unstyled-tags": true,
+  "minimal-style@@tag-radius": "4px",
+  "minimal-style@@tag-border-width": "1px",
+  "minimal-style@@tag-color@@dark": "#FF80ED"
 }
