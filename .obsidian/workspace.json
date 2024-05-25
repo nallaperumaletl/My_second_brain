@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BigData/week-3 Quiz.md",
+                "file": "BigData-Quiz/week-3 Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BigData/week-3 Quiz.md"
+                "file": "BigData-Quiz/week-3 Quiz.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BigData/week-3 Quiz.md",
+                "file": "BigData-Quiz/week-3 Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BigData/week-3 Quiz.md",
+                "file": "BigData-Quiz/week-3 Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,14 +187,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "965d02d6eb72e22f",
+  "active": "85b5b9b748906bee",
   "lastOpenFiles": [
     "Neuron_Migration_Validation/table-profiler.sh.md",
     "Assets/Attachments/Pasted image 20240525185758.png",
     "Assets/Attachments/Pasted image 20240525184814.png",
     "Assets/Attachments/Pasted image 20240525185025.png",
     "Assets/Attachments/Pasted image 20240525185445.png",
-    "BigData/week-3 Quiz.md",
+    "BigData-Quiz/week-3 Quiz.md",
     "2024-05-23.md",
     "Assets/Attachments/Pasted image 20240525184918.png",
     "Assets/Attachments",
@@ -205,7 +205,7 @@
     "Assets/Attachments/Pasted image 20240525190155.png",
     "Assets/Attachments/Pasted image 20240525190124.png",
     "BigData/Untitled.canvas",
-    "BigData",
+    "BigData-Quiz",
     "Neuron_Migration_Validation/query_extractor.sh.md",
     "TCL/Tricks & Tips.md",
     "Template/Callout.md",

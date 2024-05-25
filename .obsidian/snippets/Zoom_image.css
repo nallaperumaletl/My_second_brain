@@ -1,6 +1,22 @@
-.cm-header-1 { color: #368ce7; }  
-.cm-header-2 { color: #ffd98c; }
-.cm-header-3 { color: #9ff369; }
-.cm-header-4 { color: #59d5c4; }
-.cm-header-5 { color: #b3a197; }
-.cm-header-6 { color: #b99aff; }
+.markdown-preview-view .internal-embed img {
+	cursor:zoom-in;}
+
+.markdown-preview-view .internal-embed img:active {
+	cursor:zoom-out;
+	display:block;
+	z-index:100;
+	position:fixed;
+    max-height:100%;
+    max-width:100%;
+    height:100%;
+    width:100%;
+    object-fit: contain;
+    margin:0 auto;
+    text-align:center;
+    top: 50%;
+  	transform: translateY(-50%);
+    padding:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background:var(--background-primary);}

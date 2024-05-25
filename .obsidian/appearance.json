@@ -3,6 +3,7 @@
   "cssTheme": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "nalla_customize_heading_color"
+    "nalla_customize_heading_color",
+    "Zoom_image"
   ]
 }
