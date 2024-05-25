@@ -1,7 +1,7 @@
 {
   "readableLineLength": false,
   "autoConvertHtml": false,
-  "attachmentFolderPath": "",
+  "attachmentFolderPath": "Assets/Attachments",
   "propertiesInDocument": "visible",
   "promptDelete": false,
   "showUnsupportedFiles": true
