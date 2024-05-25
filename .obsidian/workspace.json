@@ -4,22 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "b00102e56136db09",
+        "id": "418c59f6b4187b7f",
         "type": "tabs",
         "children": [
           {
-            "id": "1ab28350885ba51a",
+            "id": "1edbdcc6b4611324",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Neuron_Migration_Validation/query_extractor.sh.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d374c21b64f8d1a7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuron_Migration_Validation/table-profiler.sh.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0c94f34c6957019a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scripts/Git Useful cmd.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuron_Migration_Validation/query_extractor.sh.md"
+                "file": "scripts/Git Useful cmd.md"
               }
             }
           },
@@ -95,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuron_Migration_Validation/query_extractor.sh.md",
+                "file": "scripts/Git Useful cmd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuron_Migration_Validation/query_extractor.sh.md",
+                "file": "scripts/Git Useful cmd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,13 +187,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab28350885ba51a",
+  "active": "0c94f34c6957019a",
   "lastOpenFiles": [
     "Neuron_Migration_Validation/table-profiler.sh.md",
     "Neuron_Migration_Validation/query_extractor.sh.md",
-    "2024-05-23.md",
-    "Untitled 1.md",
     "Untitled.md",
+    "2024-05-23.md",
+    "Neuron_Migration_Validation/new.sh.md",
+    "Untitled 1.md",
     "Untitled 2.md",
     "Trial&Error/Trial.md",
     "Hello.md",

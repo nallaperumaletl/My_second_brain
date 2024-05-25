@@ -3,5 +3,6 @@
   "autoConvertHtml": false,
   "attachmentFolderPath": "",
   "propertiesInDocument": "visible",
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }
