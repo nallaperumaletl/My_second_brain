@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "Neuron_Migration_Validation/metadata-collector.sh.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23.md"
+                "file": "Neuron_Migration_Validation/metadata-collector.sh.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "Neuron_Migration_Validation/metadata-collector.sh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "Neuron_Migration_Validation/metadata-collector.sh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +189,9 @@
   },
   "active": "3857a41a028ca205",
   "lastOpenFiles": [
+    "2024-05-23.md",
+    "Template/Callout.md",
+    "Template",
     "Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
     "Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "Neuron_Migration_Validation/metadata-collector.sh.md",
@@ -197,7 +200,6 @@
     "Neuron_Migration_Validation/query_extractor.sh.md",
     "scripts/Git Useful cmd.md",
     "Untitled.md",
-    "2024-05-23.md",
     "Neuron_Migration_Validation/new.sh.md",
     "Untitled 1.md",
     "Untitled 2.md",

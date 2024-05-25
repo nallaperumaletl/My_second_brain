@@ -14,5 +14,13 @@
       ],
       "key": "`"
     }
+  ],
+  "templater-obsidian:Template/Callout.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }
