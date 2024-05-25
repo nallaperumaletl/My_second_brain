@@ -1,5 +1,5 @@
 # Script
-
+#### Ref:  [[query_extractor.sh]] , [[table-profiler.sh]] ,  [[metadata-processor.sh]]
 ```bash
 dir=$(pwd)
 var="USING CHARACTER SET  ASCII
