@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024-05-23.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -189,12 +189,14 @@
   },
   "active": "f729bd8212fbcdab",
   "lastOpenFiles": [
+    "Assets/Attachments/Ink/Writing/2024.4.26 - 0.24am.writing",
+    "Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
+    "2024-05-23.md",
     "Assets/Attachments/Ink/Writing/2024.4.26 - 0.12am.writing",
     "Assets/Attachments/Ink/Writing/2024.4.26 - 0.11am.writing",
     "Neuron_Migration_Validation/table-profiler.sh.md",
     "Assets/Attachments/Ink/Writing/2024.4.26 - 0.06am.writing",
     "BigData-Quiz/week-3 Quiz.md",
-    "2024-05-23.md",
     "Assets/Attachments/Ink/Writing",
     "Assets/Attachments/Ink",
     "Neuron_Migration_Validation/metadata-collector.sh.md",
@@ -233,8 +235,6 @@
     "www.google.com.md",
     "My linux.md",
     "bash.md",
-    "about obsidian.md",
-    "Trial&Error",
-    "Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md"
+    "about obsidian.md"
   ]
 }
