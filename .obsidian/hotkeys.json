@@ -22,5 +22,13 @@
       ],
       "key": "C"
     }
+  ],
+  "ink:create-handwritten-section": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
   ]
 }
