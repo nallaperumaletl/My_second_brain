@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "95190599d55e2c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BigData/week-3 Quiz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuron_Migration_Validation/table-profiler.sh.md"
+                "file": "BigData/week-3 Quiz.md"
               }
             }
           },
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuron_Migration_Validation/table-profiler.sh.md",
+                "file": "BigData/week-3 Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuron_Migration_Validation/table-profiler.sh.md",
+                "file": "BigData/week-3 Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,10 +187,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d374c21b64f8d1a7",
+  "active": "95190599d55e2c59",
   "lastOpenFiles": [
-    "Neuron_Migration_Validation/query_extractor.sh.md",
+    "Pasted image 20240525185729.png",
+    "Pasted image 20240525185524.png",
+    "Pasted image 20240525185445.png",
+    "Pasted image 20240525185351.png",
+    "Pasted image 20240525185245.png",
+    "Pasted image 20240525185153.png",
+    "Pasted image 20240525185056.png",
+    "Pasted image 20240525185025.png",
+    "Pasted image 20240525184953.png",
+    "Pasted image 20240525184918.png",
+    "Pasted image 20240525184814.png",
+    "BigData/Untitled.canvas",
+    "BigData/week-3 Quiz.md",
     "Neuron_Migration_Validation/table-profiler.sh.md",
+    "BigData",
+    "Neuron_Migration_Validation/query_extractor.sh.md",
     "TCL/Tricks & Tips.md",
     "2024-05-23.md",
     "Template/Callout.md",
