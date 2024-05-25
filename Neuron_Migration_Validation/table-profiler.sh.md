@@ -1,7 +1,7 @@
-#neuronscripts 
+#neuronscripts  [[query_extractor.sh]]
 # Script
 
-```sh
+```bash
 #1 - Target Database Name
 #2 - Target Table Name
 #3 - Source Database Name

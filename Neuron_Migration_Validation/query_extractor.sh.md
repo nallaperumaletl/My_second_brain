@@ -1,7 +1,7 @@
 #neuronscripts
 # Script
 
-```sh
+```bash
 rm /app/home/arcion/validation-ci/metadata_validation/tpt_downloads/metadata_query/$1_$2.txt
 dir=$(pwd)
 var="
@@ -41,7 +41,7 @@ SELECT \* FROM OPERATOR (SQL_SELECTOR);
 );"
 ```
 
-```sh
+```bash
 rm tpt_downloads/metadata_query/$1_$2.tpt
 
 echo $var > tpt_downloads/metadata_query/$1_$2.tpt
