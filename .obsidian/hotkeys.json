@@ -54,5 +54,19 @@
       ],
       "key": "C"
     }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
   ]
 }

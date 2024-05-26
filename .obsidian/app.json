@@ -4,5 +4,6 @@
   "attachmentFolderPath": "00 - Assets/Attachments",
   "propertiesInDocument": "visible",
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true
 }

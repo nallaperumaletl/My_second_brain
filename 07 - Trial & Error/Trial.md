@@ -1,5 +1,9 @@
 #  Trial and error
 
+> [!info]- Shortcuts in my obsidian
+> Toggle Reading view -----> Ctrl + E / Alt + x
+
+
 
 Hello Nalla My first changes 
 

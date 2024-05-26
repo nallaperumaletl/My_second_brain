@@ -34,21 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f729bd8212fbcdab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - Trial & Error/Trial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Trial & Error/Trial.md"
+                "file": "04 - TCL Neuron script/table-profiler.sh.md"
               }
             }
           },
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Trial & Error/Trial.md",
+                "file": "04 - TCL Neuron script/table-profiler.sh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Trial & Error/Trial.md",
+                "file": "04 - TCL Neuron script/table-profiler.sh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,10 +175,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f729bd8212fbcdab",
+  "active": "d374c21b64f8d1a7",
   "lastOpenFiles": [
-    "2024-05-23.md",
     "07 - Trial & Error/Trial.md",
+    "05 - Bigdata-Quiz/week-3 Quiz.md",
+    "04 - TCL Neuron script/table-profiler.sh.md",
+    "2024-05-23.md",
     "03 - TCL/Tricks & Tips.md",
     "01 - Template/Callout.md",
     "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
@@ -199,9 +189,7 @@
     "03 - TCL/Untitled",
     "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
     "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.12am.writing",
-    "04 - TCL Neuron script/table-profiler.sh.md",
     "Assets/Attachments/Ink/Writing/2024.4.26 - 0.06am.writing",
-    "05 - Bigdata-Quiz/week-3 Quiz.md",
     "00 - Assets/Attachments/Ink/Writing",
     "00 - Assets/Attachments/Ink",
     "04 - TCL Neuron script/metadata-collector.sh.md",

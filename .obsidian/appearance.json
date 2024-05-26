@@ -4,7 +4,9 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "nalla_customize_heading_color",
-    "Zoom_image",
-    "Colored_Sidebar_Items"
-  ]
+    "Colored_Sidebar_Items",
+    "Zoom_image"
+  ],
+  "nativeMenus": false,
+  "showViewHeader": true
 }
