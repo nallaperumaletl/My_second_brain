@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "418c59f6b4187b7f",
+        "id": "9f12c9c885532bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "1edbdcc6b4611324",
+            "id": "dfdd4ebe95dd0873",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - TCL Neuron script/query_extractor.sh.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d374c21b64f8d1a7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - TCL Neuron script/table-profiler.sh.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "04 - TCL Neuron script/table-profiler.sh.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - TCL Neuron script/table-profiler.sh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - TCL Neuron script/table-profiler.sh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,50 +150,51 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d374c21b64f8d1a7",
+  "active": "85b5b9b748906bee",
   "lastOpenFiles": [
-    "07 - Trial & Error/Trial.md",
-    "05 - Bigdata-Quiz/week-3 Quiz.md",
+    "00 - Galaxy",
     "04 - TCL Neuron script/table-profiler.sh.md",
+    "06 - Nalla Random/Just.md",
+    "06 - Nalla Random/Git Useful cmd.md",
+    "07 - Trial & Error/Trial.md",
     "2024-05-23.md",
+    "04 - TCL Neuron script/query_extractor.sh.md",
+    "05 - Bigdata-Quiz/week-3 Quiz.md",
     "03 - TCL/Tricks & Tips.md",
     "01 - Template/Callout.md",
     "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.24am.writing",
+    "88 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.24am.writing",
     "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.11am.writing",
     "03 - TCL/Untitled",
     "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
     "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.12am.writing",
     "Assets/Attachments/Ink/Writing/2024.4.26 - 0.06am.writing",
-    "00 - Assets/Attachments/Ink/Writing",
-    "00 - Assets/Attachments/Ink",
+    "88 - Assets/Attachments/Ink/Writing",
+    "88 - Assets/Attachments/Ink",
     "04 - TCL Neuron script/metadata-collector.sh.md",
-    "00 - Assets/Attachments/Pasted image 20240525185758.png",
-    "00 - Assets/Attachments/Pasted image 20240525184814.png",
-    "00 - Assets/Attachments/Pasted image 20240525185025.png",
-    "00 - Assets/Attachments/Pasted image 20240525185445.png",
-    "00 - Assets/Attachments/Pasted image 20240525184918.png",
-    "00 - Assets/Attachments",
-    "00 - Assets",
-    "00 - Assets/Attachments/Pasted image 20240525190315.png",
-    "00 - Assets/Attachments/Pasted image 20240525190257.png",
-    "00 - Assets/Attachments/Pasted image 20240525190219.png",
-    "00 - Assets/Attachments/Pasted image 20240525190155.png",
-    "00 - Assets/Attachments/Pasted image 20240525190124.png",
+    "88 - Assets/Attachments/Pasted image 20240525185758.png",
+    "88 - Assets/Attachments/Pasted image 20240525184814.png",
+    "88 - Assets/Attachments/Pasted image 20240525185025.png",
+    "88 - Assets/Attachments/Pasted image 20240525185445.png",
+    "88 - Assets/Attachments/Pasted image 20240525184918.png",
+    "88 - Assets/Attachments",
+    "88 - Assets",
+    "88 - Assets/Attachments/Pasted image 20240525190315.png",
+    "88 - Assets/Attachments/Pasted image 20240525190257.png",
+    "88 - Assets/Attachments/Pasted image 20240525190219.png",
+    "88 - Assets/Attachments/Pasted image 20240525190155.png",
+    "88 - Assets/Attachments/Pasted image 20240525190124.png",
     "BigData/Untitled.canvas",
     "05 - Bigdata-Quiz",
-    "04 - TCL Neuron script/query_extractor.sh.md",
     "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
     "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "04 - TCL Neuron script/metadata-processor.sh.md",
-    "06 - Nalla Random/Git Useful cmd.md",
     "Untitled.md",
     "Neuron_Migration_Validation/new.sh.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Hello.md",
     "helloman.md",
-    "06 - Nalla Random/Just.md",
     "new note at 1.45 am.md",
     "www.google.com.md",
     "My linux.md",

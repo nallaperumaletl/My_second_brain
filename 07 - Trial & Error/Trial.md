@@ -2,6 +2,9 @@
 
 > [!info]- Shortcuts in my obsidian
 > Toggle Reading view -----> Ctrl + E / Alt + x
+> Add file property Ctrl + ;
+
+
 
 
 
