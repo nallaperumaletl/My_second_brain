@@ -46,5 +46,13 @@
       ],
       "key": "D"
     }
+  ],
+  "templater-obsidian:01 - Template/Callout.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }

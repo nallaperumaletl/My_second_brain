@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "07 - Trial & Error/Trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23.md"
+                "file": "07 - Trial & Error/Trial.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "07 - Trial & Error/Trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "07 - Trial & Error/Trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,13 +187,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85b5b9b748906bee",
+  "active": "f729bd8212fbcdab",
   "lastOpenFiles": [
-    "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.24am.writing",
-    "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
     "2024-05-23.md",
-    "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.12am.writing",
+    "07 - Trial & Error/Trial.md",
+    "03 - TCL/Tricks & Tips.md",
+    "01 - Template/Callout.md",
+    "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
+    "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.24am.writing",
     "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.11am.writing",
+    "03 - TCL/Untitled",
+    "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
+    "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.12am.writing",
     "04 - TCL Neuron script/table-profiler.sh.md",
     "Assets/Attachments/Ink/Writing/2024.4.26 - 0.06am.writing",
     "05 - Bigdata-Quiz/week-3 Quiz.md",
@@ -215,9 +220,6 @@
     "BigData/Untitled.canvas",
     "05 - Bigdata-Quiz",
     "04 - TCL Neuron script/query_extractor.sh.md",
-    "03 - TCL/Tricks & Tips.md",
-    "01 - Template/Callout.md",
-    "01 - Template",
     "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
     "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "04 - TCL Neuron script/metadata-processor.sh.md",
@@ -226,15 +228,12 @@
     "Neuron_Migration_Validation/new.sh.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "07 - Trial & Error/Trial.md",
     "Hello.md",
     "helloman.md",
-    "04 - TCL Neuron script",
     "06 - Nalla Random/Just.md",
     "new note at 1.45 am.md",
     "www.google.com.md",
     "My linux.md",
-    "bash.md",
-    "about obsidian.md"
+    "bash.md"
   ]
 }
