@@ -18,8 +18,49 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ca99c365ba0a136",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8613bc0d20fed345",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "47ec6605275d62d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "639ac3d3800ec704",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23.md"
+                "file": "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md"
               }
             }
           },
@@ -95,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +201,15 @@
   },
   "active": "85b5b9b748906bee",
   "lastOpenFiles": [
+    "02 - Assets/excalidraw template library/data-platform.excalidrawlib",
+    "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
+    "02 - Assets/excalidraw template library/data-processing.excalidrawlib",
+    "02 - Assets/excalidraw template library",
+    "02 - Assets",
+    "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
+    "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
+    "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
+    "2024-05-23.md",
     "13 -",
     "12 -",
     "11 -",
@@ -167,15 +217,9 @@
     "09 -",
     "08 - Ubuntu/some commands/history.sh.md",
     "04 - TCL Neuron script/query_extractor.sh.md",
-    "2024-05-23.md",
     "08 - Ubuntu/some commands",
-    "08 - Ubuntu",
     "04 - TCL Neuron script/table-profiler.sh.md",
     "04 - TCL Neuron script/metadata-processor.sh.md",
-    "Ink/Writing/2024.4.29 - 22.05pm.writing",
-    "Ink/Writing",
-    "Ink",
-    "00 - Galaxy",
     "06 - Nalla Random/Just.md",
     "06 - Nalla Random/Git Useful cmd.md",
     "07 - Trial & Error/Trial.md",
@@ -183,7 +227,6 @@
     "03 - TCL/Tricks & Tips.md",
     "01 - Template/Callout.md",
     "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
     "04 - TCL Neuron script/metadata-collector.sh.md",
     "88 - Assets/Attachments/Pasted image 20240525185758.png",
     "88 - Assets/Attachments/Pasted image 20240525184814.png",
@@ -196,8 +239,6 @@
     "88 - Assets/Attachments/Pasted image 20240525190155.png",
     "88 - Assets/Attachments/Pasted image 20240525190124.png",
     "BigData/Untitled.canvas",
-    "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "Untitled.md",
     "Neuron_Migration_Validation/new.sh.md",
     "Untitled 1.md",
