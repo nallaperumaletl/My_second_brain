@@ -20,42 +20,15 @@
             }
           },
           {
-            "id": "5b5bf4bf45776e5b",
+            "id": "9ae233e223b7013a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - TCL Neuron script/query_extractor.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca678df1c7e8dda5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - TCL Neuron script/metadata-processor.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00a7e86450ab14ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - TCL Neuron script/table-profiler.sh.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-05-23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,16 +163,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfdd4ebe95dd0873",
+  "active": "9ae233e223b7013a",
   "lastOpenFiles": [
-    "04 - TCL Neuron script/table-profiler.sh.md",
     "2024-05-23.md",
-    "04 - TCL Neuron script/metadata-processor.sh.md",
     "04 - TCL Neuron script/query_extractor.sh.md",
-    "Ink/Writing/2024.4.29 - 22.05pm.writing",
-    "Ink/Writing",
-    "Ink",
-    "00 - Galaxy",
+    "04 - TCL Neuron script/table-profiler.sh.md",
+    "04 - TCL Neuron script/metadata-processor.sh.md",
+    "06- Ubuntu/my scripts/terminal.sh",
+    "06- Ubuntu/my scripts/spinner.sh",
+    "06- Ubuntu/my scripts/kill_spark_process.sh",
+    "06- Ubuntu/my scripts/kill_cassandra_process.sh",
+    "06- Ubuntu/my scripts/history.txt",
+    "06- Ubuntu/my scripts/counter.sh",
+    "06- Ubuntu/my scripts/chk_nohup.sh",
+    "06- Ubuntu/my scripts/cassandrasparkOnJupyterNotebook.sh",
+    "06- Ubuntu/my scripts/cassandra.sh",
+    "06- Ubuntu/my scripts",
     "06 - Nalla Random/Just.md",
     "06 - Nalla Random/Git Useful cmd.md",
     "07 - Trial & Error/Trial.md",
@@ -211,13 +186,7 @@
     "03 - TCL/Tricks & Tips.md",
     "01 - Template/Callout.md",
     "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "88 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.24am.writing",
-    "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.11am.writing",
-    "03 - TCL/Untitled",
     "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
-    "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.12am.writing",
-    "Assets/Attachments/Ink/Writing/2024.4.26 - 0.06am.writing",
-    "88 - Assets/Attachments/Ink/Writing",
     "04 - TCL Neuron script/metadata-collector.sh.md",
     "88 - Assets/Attachments/Pasted image 20240525185758.png",
     "88 - Assets/Attachments/Pasted image 20240525184814.png",
