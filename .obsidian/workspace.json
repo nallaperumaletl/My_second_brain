@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8c476a0a95ff676d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Ubuntu/some commands/history.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b5bf4bf45776e5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - TCL Neuron script/query_extractor.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca678df1c7e8dda5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - TCL Neuron script/metadata-processor.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00a7e86450ab14ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - TCL Neuron script/table-profiler.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Ubuntu/some commands/history.sh.md"
+                "file": "2024-05-23.md"
               }
             }
           },
@@ -144,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Ubuntu/some commands/history.sh.md",
+                "file": "2024-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Ubuntu/some commands/history.sh.md",
+                "file": "2024-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +158,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c476a0a95ff676d",
+  "active": "85b5b9b748906bee",
   "lastOpenFiles": [
-    "2024-05-23.md",
+    "13 -",
+    "12 -",
+    "11 -",
+    "10 -",
+    "09 -",
     "08 - Ubuntu/some commands/history.sh.md",
+    "04 - TCL Neuron script/query_extractor.sh.md",
+    "2024-05-23.md",
     "08 - Ubuntu/some commands",
     "08 - Ubuntu",
     "04 - TCL Neuron script/table-profiler.sh.md",
     "04 - TCL Neuron script/metadata-processor.sh.md",
-    "04 - TCL Neuron script/query_extractor.sh.md",
     "Ink/Writing/2024.4.29 - 22.05pm.writing",
     "Ink/Writing",
     "Ink",
@@ -227,11 +183,7 @@
     "03 - TCL/Tricks & Tips.md",
     "01 - Template/Callout.md",
     "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "88 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.24am.writing",
-    "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.11am.writing",
-    "03 - TCL/Untitled",
     "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
-    "00 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.12am.writing",
     "04 - TCL Neuron script/metadata-collector.sh.md",
     "88 - Assets/Attachments/Pasted image 20240525185758.png",
     "88 - Assets/Attachments/Pasted image 20240525184814.png",
@@ -254,7 +206,6 @@
     "helloman.md",
     "new note at 1.45 am.md",
     "www.google.com.md",
-    "My linux.md",
-    "bash.md"
+    "My linux.md"
   ]
 }
