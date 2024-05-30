@@ -1,0 +1,26 @@
+TRACING LEVEL :
+--------------
+None :
+=====
+Integration Service uses the tracing level set in the mapping.
+
+Terse :
+=====
+Integration Service logs initialization information, error messages, and notification of rejected data.
+
+Normal :
+======
+Integration Service logs initialization and status information, errors encountered, and skipped rows due to transformation row errors.
+Summarizes session results, but not at the level of individual rows.
+
+Verbose Initialization :
+======================
+In addition to normal tracing, the Integration Service logs additional initialization details, 
+names of index and data files used, and detailed transformation statistics.
+
+Verbose Data :
+=============
+In addition to verbose initialization tracing, the Integration Service logs each row that passes into the mapping. 
+Also notes where the Integration Service truncates string data to fit the precision of a column and provides detailed transformation statistics.
+When you configure the tracing level to verbose data, the Integration Service writes row data for all rows in a block 
+when it processes a transformation.
