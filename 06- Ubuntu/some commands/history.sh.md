@@ -1,4 +1,5 @@
-    1  whoami
+```bash
+	1  whoami
     2  uname -a
     3  lsb_release -a
     4  exit
@@ -84,7 +85,7 @@
    84  sbin/start-dfs.sh 
    85  sbin/start-yarn.sh 
    86  jps
-   87  cat The authenticity of host 'localhost (127.0.0.1)' can't be established.
+   87  cat The authenticity of host 'localhost (127.0.0.1)' cant be established.
    88  ED25519 key fingerp
    89  ;
    90  jps
@@ -497,3 +498,4 @@
   497  timedatectl 
   498  history 
   499  history > /home/nalla/history.txt
+```
