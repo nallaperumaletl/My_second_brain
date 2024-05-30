@@ -32,6 +32,7 @@ customization. Just swap out the color variable names in the prefix groups.
   --magenta: #e54f9b;            /* Default Prefix: 06 */
   --hot-red: #e3365e;            /* Default Prefix: 07 */
   --cool-gray: #515768;          /* Default Prefix: 99 */
+  --cool-purple: #fc9be7;       /* Default Prefix: 08 */
 
   --default-text-color: #d0d0d0;
   --highlight: #fff;
@@ -585,6 +586,71 @@ these to suit your own folder structure and vault theme!
     transparent
   );
 }
+
+/* ------------------------------- 08 Prefix -------------------------------- */
+.nav-folder-title[data-path^="08"] {
+  color: var(--cool-purple);
+  --nav-item-color-hover: color-mix(
+    in srgb,
+    var(--cool-purple) var(--fg-contrast-amount),
+    var(--contrast-color)
+  );
+  --nav-item-background-hover: color-mix(
+    in srgb,
+    var(--cool-purple) var(--bg-contrast-amount),
+    transparent
+  );
+  --background-modifier-border-focus: color-mix(
+    in srgb,
+    var(--cool-purple) 40%,
+    transparent
+  );
+  --nav-collapse-icon-color: color-mix(
+    in srgb,
+    var(--cool-purple) 60%,
+    transparent
+  );
+}
+.nav-folder-title[data-path^="07"]:hover {
+  --nav-collapse-icon-color: color-mix(
+    in srgb,
+    var(--cool-purple) 60%,
+    var(--contrast-color)
+  );
+}
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="07"]) {
+  --nav-indentation-guide-color: color-mix(
+    in srgb,
+    var(--cool-purple) var(--medium-contrast-amount),
+    transparent
+  );
+}
+.tree-item-children
+  .nav-folder:has(.nav-folder-title[data-path^="07"])
+  .nav-file-title {
+  color: color-mix(
+    in srgb,
+    var(--cool-purple) var(--medium-contrast-amount),
+    var(--default-text-color)
+  );
+  --nav-item-background-hover: color-mix(
+    in srgb,
+    color-mix(in srgb, var(--cool-purple) 50%, var(--highlight))
+      var(--bg-contrast-amount),
+    transparent
+  );
+  --background-modifier-border-focus: color-mix(
+    in srgb,
+    var(--cool-purple) 40%,
+    transparent
+  );
+  --nav-item-background-active: color-mix(
+    in srgb,
+    var(--cool-purple) var(--active-contrast-amount),
+    transparent
+  );
+}
+
 
 /* ------------------------------- 99 Prefix -------------------------------- */
 .nav-folder-title[data-path^="99"] {
