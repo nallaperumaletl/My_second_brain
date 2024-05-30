@@ -76,5 +76,13 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }

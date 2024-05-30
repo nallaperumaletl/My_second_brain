@@ -1,13 +1,14 @@
+
 ```bash
-	1  whoami
-    2  uname -a
-    3  lsb_release -a
-    4  exit
-    5  sudo apt-get update 
-    6  lsb_release -a
-    7  exit
-    8  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb 
-    9  cd ~/Downloads/
+1  whoami
+2  uname -a
+3  lsb_release -a
+4  exit
+5  sudo apt-get update 
+6  lsb_release -a
+7  exit
+8  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb 
+   9  cd ~/Downloads/
    10  sudo dpkg -i google-chrome-stable_current_amd64.deb 
    11  cd ..
    12  sudo dpkg -i google-chrome-stable_current_amd64.deb 
