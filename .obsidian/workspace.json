@@ -23,8 +23,12 @@
             "id": "1a4f6e613f112a88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "05 - Bigdata-Quiz/week-4 Quiz.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -93,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "05 - Bigdata-Quiz/week-4 Quiz.md"
+              }
             }
           },
           {
@@ -102,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "05 - Bigdata-Quiz/week-4 Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "05 - Bigdata-Quiz/week-4 Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +173,21 @@
   },
   "active": "1a4f6e613f112a88",
   "lastOpenFiles": [
+    "88 - Assets/Attachments/Pasted image 20240601202924.png",
+    "88 - Assets/Attachments/Pasted image 20240601202844.png",
+    "88 - Assets/Attachments/Pasted image 20240601202753.png",
+    "88 - Assets/Attachments/Pasted image 20240601202727.png",
+    "88 - Assets/Attachments/Pasted image 20240601202653.png",
+    "88 - Assets/Attachments/Pasted image 20240601202619.png",
+    "88 - Assets/Attachments/Pasted image 20240601202424.png",
+    "88 - Assets/Attachments/Pasted image 20240601202342.png",
+    "88 - Assets/Attachments/Pasted image 20240601202300.png",
+    "88 - Assets/Attachments/Pasted image 20240601202221.png",
+    "88 - Assets/Attachments/Pasted image 20240601202152.png",
+    "05 - Bigdata-Quiz/week-4 Quiz.md",
+    "05 - Bigdata-Quiz/week-3 Quiz.md",
+    "05 - Bigdata-Quiz/week-3 QUiz",
+    "05 - Bigdata-Quiz/week-4 QUiz",
     "2024-05-23.md",
     "07 - Trial & Error/TracingLevel.txt",
     "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
@@ -178,8 +201,6 @@
     "02 - Assets",
     "13 -",
     "12 -",
-    "11 -",
-    "10 -",
     "08 - Ubuntu/some commands/history.sh.md",
     "04 - TCL Neuron script/query_extractor.sh.md",
     "04 - TCL Neuron script/table-profiler.sh.md",
@@ -187,20 +208,9 @@
     "06 - Nalla Random/Just.md",
     "06 - Nalla Random/Git Useful cmd.md",
     "07 - Trial & Error/Trial.md",
-    "05 - Bigdata-Quiz/week-3 Quiz.md",
     "03 - TCL/Tricks & Tips.md",
     "01 - Template/Callout.md",
     "04 - TCL Neuron script/metadata-collector.sh.md",
-    "88 - Assets/Attachments/Pasted image 20240525185758.png",
-    "88 - Assets/Attachments/Pasted image 20240525184814.png",
-    "88 - Assets/Attachments/Pasted image 20240525185025.png",
-    "88 - Assets/Attachments/Pasted image 20240525185445.png",
-    "88 - Assets/Attachments/Pasted image 20240525184918.png",
-    "88 - Assets/Attachments/Pasted image 20240525190315.png",
-    "88 - Assets/Attachments/Pasted image 20240525190257.png",
-    "88 - Assets/Attachments/Pasted image 20240525190219.png",
-    "88 - Assets/Attachments/Pasted image 20240525190155.png",
-    "88 - Assets/Attachments/Pasted image 20240525190124.png",
     "BigData/Untitled.canvas",
     "Untitled.md",
     "Neuron_Migration_Validation/new.sh.md",
@@ -209,7 +219,6 @@
     "Hello.md",
     "helloman.md",
     "new note at 1.45 am.md",
-    "www.google.com.md",
-    "My linux.md"
+    "www.google.com.md"
   ]
 }
