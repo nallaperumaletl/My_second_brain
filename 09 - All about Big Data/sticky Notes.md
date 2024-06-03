@@ -21,3 +21,10 @@ spark = SparkSession \
 
 ```
 
+> [!TIPS] LOAD FROM LOCAL FILE:
+> ## To load data from LOCAL FILE: use file:/// three slashes.. 
+>```python
+emp_df = spark.read.csv("file:///home/nallaperumal/data_set/Hr-schema/EMPLOYEES_MYSQLDATE.csv",header=True,inferSchema=True)
+
+
+
