@@ -1,3 +1,8 @@
+---
+tags:
+  - pyspark-tips
+  - stickynotes
+---
 
 ## To start pyspark session in VSCode
 #### You can change appName according to your Need.!
