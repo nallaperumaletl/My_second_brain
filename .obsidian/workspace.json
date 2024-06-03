@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "09 - All about Big Data/sticky Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "09 - All about Big Data/sticky Notes.md"
               }
             }
           },
@@ -95,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "09 - All about Big Data/sticky Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "09 - All about Big Data/sticky Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,13 +158,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85b5b9b748906bee",
+  "active": "dfdd4ebe95dd0873",
   "lastOpenFiles": [
     "2024-05-23.md",
+    "09 - All about Big Data/sticky Notes.md",
+    "09 - All about Big Data",
+    "conflict-files-obsidian-git.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
     "06 - Nalla Random/Just.md",
     "06 - Nalla Random/Git Useful cmd.md",
-    "conflict-files-obsidian-git.md",
     "08 - Ubuntu/some commands/history.sh.md",
     "88 - Assets/Attachments/Pasted image 20240601202924.png",
     "88 - Assets/Attachments/Pasted image 20240601202844.png",
@@ -186,7 +190,6 @@
     "06- Ubuntu/my scripts/terminal.sh",
     "06- Ubuntu/my scripts/spinner.sh",
     "06- Ubuntu/my scripts/kill_spark_process.sh",
-    "06- Ubuntu/my scripts/kill_cassandra_process.sh",
     "07 - Trial & Error/Trial.md",
     "05 - Bigdata-Quiz/week-3 Quiz.md",
     "03 - TCL/Tricks & Tips.md",
@@ -203,7 +206,6 @@
     "Untitled 2.md",
     "Hello.md",
     "helloman.md",
-    "new note at 1.45 am.md",
-    "www.google.com.md"
+    "new note at 1.45 am.md"
   ]
 }
