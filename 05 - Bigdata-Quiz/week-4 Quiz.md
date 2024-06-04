@@ -6,4 +6,4 @@
 | ![[Pasted image 20240601202110.png]] | ![[Pasted image 20240601202152.png]] | ![[Pasted image 20240601202221.png]] |
 | ![[Pasted image 20240601202300.png]] | ![[Pasted image 20240601202342.png]] | ![[Pasted image 20240601202424.png]] |
 | ![[Pasted image 20240601202619.png]] | ![[Pasted image 20240601202653.png]] | ![[Pasted image 20240601202727.png]] |
-| ![[Pasted image 20240601202753.png]] | ![[Pasted image 20240601202844.png]] | ![[Pasted image 20240601202924.png]] |
+| ![[Pasted image 20240601202753.png]] | ![[Pasted image 20240601202844.png]] | ![[Pasted image 20240601202924.png]]                                    |
