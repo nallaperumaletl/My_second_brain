@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "09 - Informatica/date function -oracle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94a58fc71f439bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "09 - Informatica/metadata-2.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "56306beabc7a41ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09 - Informatica/metadata-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,10 +183,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a6826617172f4b8",
+  "active": "94a58fc71f439bdc",
   "lastOpenFiles": [
     "09 - Informatica/metadata-1.md",
     "09 - Informatica/metadata-2.md",
+    "09 - Informatica/date function -oracle.md",
     "08 - Ubuntu/some commands/history.sh.md",
     "2024-05-23.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
@@ -205,7 +231,6 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "Hello.md",
-    "helloman.md",
-    "new note at 1.45 am.md"
+    "helloman.md"
   ]
 }
