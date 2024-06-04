@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Informatica/metadata-1.md",
+                "file": "09 - Informatica/metadata-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Informatica/metadata-1.md"
+                "file": "09 - Informatica/metadata-2.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Informatica/metadata-1.md",
+                "file": "09 - Informatica/metadata-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Informatica/metadata-1.md",
+                "file": "09 - Informatica/metadata-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,8 +160,9 @@
   },
   "active": "2a6826617172f4b8",
   "lastOpenFiles": [
-    "08 - Ubuntu/some commands/history.sh.md",
     "09 - Informatica/metadata-1.md",
+    "09 - Informatica/metadata-2.md",
+    "08 - Ubuntu/some commands/history.sh.md",
     "2024-05-23.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
     "04 - TCL Neuron script/metadata-collector.sh.md",
@@ -205,7 +206,6 @@
     "Untitled 2.md",
     "Hello.md",
     "helloman.md",
-    "new note at 1.45 am.md",
-    "www.google.com.md"
+    "new note at 1.45 am.md"
   ]
 }

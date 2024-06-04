@@ -1,0 +1,197 @@
+#### QUERY converted into MAPPING in informatica
+
+```sql
+SELECT
+  OPB_SESS_TASK_LOG.WORKFLOW_ID,
+  OPB_SESS_TASK_LOG.WORKFLOW_RUN_ID,
+  OPB_SESS_TASK_LOG.WORKLET_RUN_ID,
+  OPB_SESS_TASK_LOG.INSTANCE_ID,
+  OPB_SESS_TASK_LOG.MAPPING_NAME,
+  OPB_SESS_TASK_LOG.LOG_FILE,
+  OPB_SESS_TASK_LOG.SRC_SUCCESS_ROWS,
+  OPB_SESS_TASK_LOG.SRC_FAILED_ROWS,
+  OPB_SESS_TASK_LOG.TARG_SUCCESS_ROWS,
+  OPB_SESS_TASK_LOG.TARG_FAILED_ROWS,
+  OPB_SESS_TASK_LOG.FIRST_ERROR_MSG,
+  OPB_SESS_TASK_LOG.ERROR_LOG_FILE,
+  OPB_TASK_INST_RUN.SUBJECT_ID,
+  OPB_TASK_INST_RUN.TASK_TYPE,
+  OPB_TASK_INST_RUN.START_TIME,
+  OPB_TASK_INST_RUN.END_TIME,
+  OPB_TASK_INST_RUN.RUN_ERR_MSG,
+  OPB_TASK_INST_RUN.RUN_STATUS_CODE,
+  OPB_TASK_INST_RUN.TASK_NAME,
+  OPB_WFLOW_RUN.WORKFLOW_NAME,
+  OPB_SUBJECT.SUBJ_NAME,
+  REP_SESS_TBL_LOG.TABLE_NAME,
+  REP_SESS_TBL_LOG.THROUGHPUT
+FROM
+  OPB_SESS_TASK_LOG 
+  INNER JOIN OPB_TASK_INST_RUN 
+  ON OPB_SESS_TASK_LOG.WORKFLOW_ID = OPB_TASK_INST_RUN.WORKFLOW_ID
+  AND OPB_SESS_TASK_LOG.WORKFLOW_RUN_ID = OPB_TASK_INST_RUN.WORKFLOW_RUN_ID
+  AND OPB_SESS_TASK_LOG.WORKLET_RUN_ID = OPB_TASK_INST_RUN.WORKLET_RUN_ID
+  AND OPB_SESS_TASK_LOG.INSTANCE_ID = OPB_TASK_INST_RUN.INSTANCE_ID
+  LEFT JOIN OPB_WFLOW_RUN  
+  ON OPB_WFLOW_RUN.WORKFLOW_ID = OPB_SESS_TASK_LOG.WORKFLOW_ID 
+  AND OPB_WFLOW_RUN.WORKFLOW_RUN_ID = OPB_SESS_TASK_LOG.WORKFLOW_RUN_ID
+  LEFT JOIN OPB_SUBJECT 
+  ON OPB_TASK_INST_RUN.SUBJECT_ID = OPB_SUBJECT.SUBJ_ID
+  LEFT JOIN REP_SESS_TBL_LOG 
+  ON  OPB_SESS_TASK_LOG.WORKFLOW_ID = REP_SESS_TBL_LOG.WORKFLOW_ID
+  AND OPB_TASK_INST_RUN.SUBJECT_ID  = REP_SESS_TBL_LOG.SUBJECT_ID
+  AND REP_SESS_TBL_LOG.SESSION_NAME  = OPB_TASK_INST_RUN.TASK_NAME
+  AND REP_SESS_TBL_LOG.SUBJECT_AREA = OPB_SUBJECT.SUBJ_NAME
+WHERE OPB_TASK_INST_RUN.TASK_TYPE=68
+FETCH FIRST 20 ROWS ONLY;
+```
+
+ #### After ETL in PROD ---> created VIEW ( FOR GALAXY)
+
+```sql
+SELECT DISTINCT m.FOLDER_NAME AS FOLDER_NAME,
+   CASE
+      WHEN (
+         m.WORKFLOW_NAME IN (
+            'wf_m_LS_GXY_MANUAL_BILLINGKPI',
+            'wf_m_LS_GXY_USF',
+            'wf_GXY_MANUAL_USF_Data',
+            'wf_GXY_USF_AffiliateReporting'
+         )
+      ) THEN 'USF'
+      WHEN (
+         m.WORKFLOW_NAME IN (
+            'wf_GXY_GCSGES_SFDC_Master_Workflow',
+            'wf_GXY_GCSGES_SFDC_FormulaFields_Update',
+            'wf_m_SFDC_Deleted_Records',
+            'wf_m_LS_GXY_Reporting_Tables_Sales_Forecasting'
+         )
+      ) THEN 'SFDC'
+      WHEN (
+         m.WORKFLOW_NAME IN (
+            'wf_GXY_GCSGES_SNOW_Master_Workflow',
+            'wf_GXY_SNOW_SLAReporting',
+            'wf_m_LS_GXY_SNOW_TicketAcknowledgement',
+            'wf_GXY_WinRatePrediction'
+         )
+      ) THEN 'SNOW'
+      WHEN (
+         m.WORKFLOW_NAME IN (
+            'wf_GXY_CUSTOMERGR_Master_Workflow',
+            'wf_GXY_GR_ServiceInventory_Master_Workflow',
+            'Wf_GXY_FACT_GRServiceInventory_Hist_Workflow',
+            'wf_m_LS_GXY_FACT_TicketFinalTable',
+            'wf_GXY_PMS_Master_Workflow',
+            'wf_GXY_GCSGES_INT_Master_Workflow',
+            'wf_GXY_SEVONE_Daily_Load',
+            'wf_GXY_SEVONE_Monthly_Load'
+         )
+      ) THEN 'SMCustomer'
+      WHEN (
+         m.WORKFLOW_NAME IN (
+            'wf_new_m_meta5_join_Singlestore'
+         )
+      ) THEN 'META_Data_stats'
+      WHEN (
+         m.WORKFLOW_NAME IN (
+            'wf_GXY_GNS_Intl_BackboneReport',
+            'wf_GXY_GNS_Intl_Dimension',
+            'wf_GXY_GNS_Intl_Fact'
+         )
+      ) THEN 'GNS'
+      WHEN (
+         m.WORKFLOW_NAME IN (
+            'wf_m_LS_GXY_Sales_FinanceMIS_AOP'
+         )
+      ) THEN 'MIS_Tabuler'
+      WHEN (
+         m.WORKFLOW_NAME IN (
+            'wf_GXY_GCSGES_P4_CBF_Master_Workflow_Incr_Load',
+            'wf_GXY_GCSGES_P4_Master_Workflow',
+            'wf_GXY_GCSGES_P5_CBF_Master_Workflow',
+            'wf_GXY_GCSGES_P5_Master_Workflow',
+            'wf_GXY_GCSGES_POS_Geneva_BSSE_Master_Workflow',
+            'wf_GXY_GCSGES_P4_CBF_Master_Workflow_Full_Load',
+            'wf_m_LS_GXY_OBRevenue_GaapRevenueIndiaIntl',
+            'wf_GXY_BSC_InternationalScoreFile_Load',
+            'wf_GXY_MANUAL_BillingMetrics'
+         )
+      ) THEN 'GSG'
+      WHEN (
+         m.WORKFLOW_NAME IN ('wf_GXY_MANUAL_JLRBilling')
+      ) THEN 'JLR'
+      WHEN (
+         m.WORKFLOW_NAME IN (
+            'wf_GXY_CSAT_Workflow',
+            'wf_GXY_DataLake_CMDB_Inventory',
+            'wf_GXY_RPT_AGGCiscoPeakPorts',
+            'wf_GXY_ZABBIX',
+            'wf_GXY_RPT_Optimus_Incremental_Load',
+            'wf_GXY_SLA_Breach',
+            'wf_m_LS_GXY_SA_ServiceInventory',
+            'wf_m_GXY_UBS_Report'
+         )
+      ) THEN 'Standalone-GALAXY'
+      ELSE 'NOT_YET_NAMED'
+   END AS MODULE_NAME,
+   m.WORKFLOW_NAME AS WORKFLOW_NAME,
+   m.TASK_NAME AS TASK_NAME,
+   m.TARG_TABLE AS TARG_TABLE,
+   m.MAPPING_NAME AS MAPPING_NAME,
+   DATE(m.START_TIME) AS LOAD_DATE,
+   m.START_TIME AS START_TIME,
+   m.END_TIME AS END_TIME,
+   m.LOAD_STATUS AS LOAD_STATUS,
+   CASE
+      WHEN (
+         ROW_NUMBER() OVER (
+            PARTITION BY m.FOLDER_NAME,
+            m.TASK_NAME,
+            m.WORKFLOW_NAME
+            ORDER BY m.START_TIME DESC
+         ) = 1
+      ) THEN 'YES'
+      ELSE 'NO'
+   END AS LATEST_RUN_FLAG,
+   TIMEDIFF(
+      m.END_TIME,
+      m.START_TIME
+   ) AS DURATION,
+   LPAD(
+      (
+         TIMESTAMPDIFF(
+            MINUTE,
+            m.START_TIME,
+            m.END_TIME
+         ) % 60
+      ),
+      2,
+      '0'
+   ) AS DURATION_IN_MIN,
+   CASE
+      WHEN (m.LOAD_STATUS = '1') THEN 'Succeeded'
+      WHEN (m.LOAD_STATUS = '2') THEN 'Disabled'
+      WHEN (m.LOAD_STATUS = '3') THEN 'Failed'
+      WHEN (m.LOAD_STATUS = '4') THEN 'Stopped'
+      WHEN (m.LOAD_STATUS = '5') THEN 'Aborted'
+      WHEN (m.LOAD_STATUS = '6') THEN 'Running'
+      WHEN (m.LOAD_STATUS = '7') THEN 'Suspending'
+      WHEN (m.LOAD_STATUS = '8') THEN 'Suspended'
+      WHEN (m.LOAD_STATUS = '9') THEN 'Running'
+      WHEN (m.LOAD_STATUS = '10') THEN 'Aborting'
+      WHEN (m.LOAD_STATUS = '14') THEN 'Unknown'
+      WHEN (m.LOAD_STATUS = '15') THEN 'Terminated'
+      ELSE 'dummy'
+   END AS LOAD_STATUS_DESC,
+   m.SRC_SUCCESS_ROWS AS SRC_SUCCESS_ROWS,
+   m.SRC_FAILED_ROWS AS SRC_FAILED_ROWS,
+   m.TARG_SUCCESS_ROWS AS TARG_SUCCESS_ROWS,
+   m.TARG_FAILED_ROWS AS TARG_FAILED_ROWS,
+   m.THROUGHPUT AS THROUGHPUT,
+   m.FIRST_ERROR_MSG AS FIRST_ERROR_MSG,
+   m.RUN_ERR_MSG AS RUN_ERR_MSG,
+   m.LOG_FILE AS LOG_FILE
+FROM meta_load as m
+ORDER BY 4
+```
+
