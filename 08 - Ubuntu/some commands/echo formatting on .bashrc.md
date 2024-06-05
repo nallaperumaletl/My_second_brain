@@ -11,7 +11,7 @@ echo -e "${banner}Think Beyond!!! Dream Big ! ${reset}"
 echo -e "${banner}${bold}${blink}${color}DO MORE..${reset}"
 
 
-#### My defining in .bashrc
+#### My defining in .bashrc - NALLA PERUMAL
 ```bash
 echo ""
 echo "Hi Nalla Perumal.. Have a Good day!"
