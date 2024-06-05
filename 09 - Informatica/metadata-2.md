@@ -1,6 +1,5 @@
 #### QUERY converted into MAPPING in informatica (base query)
 
-
 ```sql
 SELECT
   OPB_SESS_TASK_LOG.WORKFLOW_ID,
