@@ -32,19 +32,31 @@
             }
           },
           {
-            "id": "a82812cf0b52ff8a",
+            "id": "e62e0fc580b252ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8131fa424b20366b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Ubuntu/some commands/history.sh.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "08 - Ubuntu/some commands/history.sh.md"
               }
             }
           },
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "08 - Ubuntu/some commands/history.sh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "08 - Ubuntu/some commands/history.sh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,13 +195,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a82812cf0b52ff8a",
+  "active": "8131fa424b20366b",
   "lastOpenFiles": [
     "08 - Ubuntu/some commands/journal.md",
-    "conflict-files-obsidian-git.md",
     "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
-    "08 - Ubuntu/sripts",
     "08 - Ubuntu/some commands/history.sh.md",
+    "conflict-files-obsidian-git.md",
+    "08 - Ubuntu/sripts",
     "2024-05-23.md",
     "09 - Informatica/metadata-1.md",
     "09 - Informatica/date function -oracle.md",
