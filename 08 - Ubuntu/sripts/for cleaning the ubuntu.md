@@ -26,7 +26,7 @@ Linux 6.5.0-35-generic x86_64
 ```
 ### To list down the all kenal images in our ubuntu system:
 
-```c
+```bash
 dpkg --list | egrep -i 'linux-image*|linux-header*'
 uname -r
 uname -mrs
@@ -42,4 +42,32 @@ sudo apt autoremove
 sudo du -sh /var/cache/apt/
 sudo apt clean
 
+```
+
+
+### CLEAR THE JOURNALCTL FILES:
+```c
+#cat /dev/null > /var/log/syslog
+
+ls -ltrh /var/log/
+du -sh /var/log/journal/
+
+#journalctl
+sudo du -sh /var/log/journal/
+journalctl --disk-usage
+
+#journalctl --vacuum-time=2d
+journalctl --vacuum-size=100M
+sudo du -sh /var/log/journal/
+journalctl --vacuum-size=25M
+sudo du -sh /var/log/journal/
+sudo du -sh /var/log/jou*
+```
+
+### clear the syslog file; but not deleting the syslog file
+```c
+cat /dev/null > /var/log/syslog
+ls -ltrh /var/log/
+systemctl restart syslog
+service syslog restart
 ```
