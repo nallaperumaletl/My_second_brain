@@ -1,5 +1,6 @@
 #### QUERY converted into MAPPING in informatica (base query)
 
+
 ```sql
 SELECT
   OPB_SESS_TASK_LOG.WORKFLOW_ID,
@@ -121,8 +122,7 @@ FROM
   AND REP_SESS_TBL_LOG.SUBJECT_AREA = OPB_SUBJECT.SUBJ_NAME
 WHERE OPB_TASK_INST_RUN.TASK_TYPE=68
   AND OPB_SUBJECT.SUBJ_NAME in ('Training')
- -- AND to_char(cast(OPB_TASK_INST_RUN.START_TIME as date),'DD-MM-YYYY') >= '03-06-2024'
-  AND OPB_TASK_INST_RUN.START_TIME  >=  (TRUNC(SYSDATE) - INTERVAL '3' DAY)
+  AND to_char(cast(OPB_TASK_INST_RUN.START_TIME as date),'DD-MM-YYYY') >= '03-06-2024'
 ) a
 where a.LATEST_RUN_FLAG='YES'
   AND LOAD_STATUS in ('Failed','Aborted','Stopped','Succeeded');

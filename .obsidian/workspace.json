@@ -4,59 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "abcc3b377aa0f8a4",
+        "id": "9f12c9c885532bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "39070c56e830cbb3",
+            "id": "dfdd4ebe95dd0873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e62e0fc580b252ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8131fa424b20366b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Ubuntu/some commands/history.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b4882b742c97876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 - Informatica/date function -oracle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39d432911a5e6686",
+            "id": "d01143177d64467e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +32,7 @@
             }
           },
           {
-            "id": "af07859b214cefb3",
+            "id": "43d015243cac62a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 325.5
   },
   "right": {
     "id": "51458ac6ba7da6d9",
@@ -146,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Informatica/metadata-2.md"
+                "file": "08 - Ubuntu/some commands/echo formatting on .bashrc.md"
               }
             }
           },
@@ -156,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Informatica/metadata-2.md",
+                "file": "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Informatica/metadata-2.md",
+                "file": "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,24 +177,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af07859b214cefb3",
+  "active": "dfdd4ebe95dd0873",
   "lastOpenFiles": [
-    "09 - Informatica/date function -oracle.md",
-    "09 - Informatica/metadata-2.md",
-    "09 - Informatica/metadata-1.md",
-    "08 - Ubuntu/some commands/history.sh.md",
     "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
-    "2024-05-23.md",
-    "08 - Ubuntu/some commands/journal.md",
-    "conflict-files-obsidian-git.md",
+    "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
+    "09 - Informatica/metadata-2.md",
+    "10 - Big Ecosystem/Apache superset/superset.md",
     "08 - Ubuntu/sripts",
+    "09 - Informatica/date function -oracle.md",
+    "10 - Big Ecosystem/Apache superset",
+    "Untitled",
+    "10 - Big Ecosystem",
+    "09 - Informatica/metadata-1.md",
+    "09 - All about Big Data/sticky Notes.md",
+    "09 - Informatica",
+    "2024-05-23.md",
+    "09 - All about Big Data",
+    "conflict-files-obsidian-git.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
-    "04 - TCL Neuron script/metadata-collector.sh.md",
+    "06 - Nalla Random/Just.md",
+    "06 - Nalla Random/Git Useful cmd.md",
+    "08 - Ubuntu/some commands/history.sh.md",
     "88 - Assets/Attachments/Pasted image 20240601202924.png",
     "88 - Assets/Attachments/Pasted image 20240601202844.png",
     "88 - Assets/Attachments/Pasted image 20240601202753.png",
@@ -242,31 +213,23 @@
     "88 - Assets/Attachments/Pasted image 20240601202342.png",
     "88 - Assets/Attachments/Pasted image 20240601202300.png",
     "88 - Assets/Attachments/Pasted image 20240601202221.png",
-    "05 - Bigdata-Quiz/week-3 Quiz.md",
-    "05 - Bigdata-Quiz/week-3 QUiz",
-    "05 - Bigdata-Quiz/week-4 QUiz",
-    "07 - Trial & Error/TracingLevel.txt",
-    "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
-    "02 - Assets/excalidraw template library/data-platform.excalidrawlib",
     "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
     "02 - Assets/excalidraw template library/data-processing.excalidrawlib",
+    "02 - Assets/excalidraw template library/data-platform.excalidrawlib",
     "02 - Assets/excalidraw template library",
-    "02 - Assets",
-    "13 -",
     "04 - TCL Neuron script/query_extractor.sh.md",
     "04 - TCL Neuron script/table-profiler.sh.md",
     "04 - TCL Neuron script/metadata-processor.sh.md",
-    "06 - Nalla Random/Just.md",
-    "06 - Nalla Random/Git Useful cmd.md",
     "07 - Trial & Error/Trial.md",
+    "05 - Bigdata-Quiz/week-3 Quiz.md",
     "03 - TCL/Tricks & Tips.md",
     "01 - Template/Callout.md",
+    "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
+    "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
+    "04 - TCL Neuron script/metadata-collector.sh.md",
     "BigData/Untitled.canvas",
-    "Untitled.md",
-    "Neuron_Migration_Validation/new.sh.md",
-    "Untitled 1.md"
+    "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
+    "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
+    "Untitled.md"
   ]
 }
