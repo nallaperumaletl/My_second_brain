@@ -37,4 +37,9 @@ sudo apt-get autoremove --purge
 cat /proc/cmdline //--> shows which kernal image ubuntu using
 dpkg --list | egrep -i 'linux-image*|linux-header*'
 
+//To clean the apt directory.
+sudo apt autoremove
+sudo du -sh /var/cache/apt/
+sudo apt clean
+
 ```
