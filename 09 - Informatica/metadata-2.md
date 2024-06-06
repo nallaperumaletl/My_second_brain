@@ -1,3 +1,10 @@
+---
+tags:
+  - "#informatica"
+  - metadata
+  - oracle
+---
+
 #### QUERY converted into MAPPING in informatica (base query)
 
 

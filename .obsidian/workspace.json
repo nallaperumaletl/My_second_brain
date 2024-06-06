@@ -11,12 +11,8 @@
             "id": "dfdd4ebe95dd0873",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Ubuntu/some commands/bashrc file.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -32,7 +28,7 @@
             }
           },
           {
-            "id": "43d015243cac62a0",
+            "id": "10c88c13cc3ab5a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Ubuntu/some commands/bashrc file.md"
+                "file": "09 - Informatica/metadata-2.md"
               }
             }
           },
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Ubuntu/some commands/bashrc file.md",
+                "file": "09 - Informatica/metadata-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Ubuntu/some commands/bashrc file.md",
+                "file": "09 - Informatica/metadata-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,19 +179,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfdd4ebe95dd0873",
+  "active": "10c88c13cc3ab5a4",
   "lastOpenFiles": [
-    "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
-    "08 - Ubuntu/some commands/bashrc file.md",
-    "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
+    "09 - Informatica/metadata-1.md",
     "09 - Informatica/metadata-2.md",
+    "08 - Ubuntu/some commands/bashrc file.md",
+    "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
+    "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
     "10 - Big Ecosystem/Apache superset/superset.md",
     "08 - Ubuntu/sripts",
     "09 - Informatica/date function -oracle.md",
     "10 - Big Ecosystem/Apache superset",
     "Untitled",
     "10 - Big Ecosystem",
-    "09 - Informatica/metadata-1.md",
     "09 - All about Big Data/sticky Notes.md",
     "09 - Informatica",
     "2024-05-23.md",

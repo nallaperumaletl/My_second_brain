@@ -1,3 +1,9 @@
+---
+tags:
+  - informatica
+  - metadata
+  - oracle
+---
 
 ### Query to check current running wfs, start time , also converted to IST , elapsed minutes can be seen.
 
