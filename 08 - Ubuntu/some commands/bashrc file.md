@@ -1,3 +1,12 @@
+---
+tags:
+  - linux
+  - neuronscripts
+  - bashrc
+  - ubuntu
+---
+
+
 ```bash
 nalla@nallaperumal-aspire:~$ cat .bashrc 
 # ~/.bashrc: executed by bash(1) for non-login shells.
