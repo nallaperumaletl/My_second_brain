@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2ef008ca34ce88df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 - Informatica/metadata-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Informatica/metadata-1.md"
+                "file": "09 - Informatica/metadata-2.md"
               }
             }
           },
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Informatica/metadata-1.md",
+                "file": "09 - Informatica/metadata-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Informatica/metadata-1.md",
+                "file": "09 - Informatica/metadata-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +167,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ef008ca34ce88df",
+  "active": "f3aef3871f83ea9b",
   "lastOpenFiles": [
+    "04 - TCL Neuron script/table-profiler.sh.md",
     "09 - Informatica/metadata-2.md",
     "09 - Informatica/metadata-1.md",
     "08 - Ubuntu/some commands/bashrc file.md",
@@ -216,7 +205,6 @@
     "02 - Assets/excalidraw template library/data-platform.excalidrawlib",
     "02 - Assets/excalidraw template library",
     "04 - TCL Neuron script/query_extractor.sh.md",
-    "04 - TCL Neuron script/table-profiler.sh.md",
     "04 - TCL Neuron script/metadata-processor.sh.md",
     "07 - Trial & Error/Trial.md",
     "05 - Bigdata-Quiz/week-3 Quiz.md",

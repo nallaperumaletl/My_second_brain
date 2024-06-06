@@ -5,7 +5,7 @@ tags:
   - oracle
 Related Note: "[[metadata-1]]"
 ---
-
+[[metadata-1]] , [[date function -oracle]] 
 #### QUERY converted into MAPPING in informatica (base query)
 
 
