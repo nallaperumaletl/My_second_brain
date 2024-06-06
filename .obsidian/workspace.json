@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a18bada73cd45c63",
+        "id": "633c369150efc947",
         "type": "tabs",
         "children": [
           {
-            "id": "3f6ae96377cfe2b0",
+            "id": "9234da6150ed5fd2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -150,7 +150,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f6ae96377cfe2b0",
+  "active": "9234da6150ed5fd2",
   "lastOpenFiles": [
     "10 - Big Ecosystem/Apache superset/superset.md",
     "09 - Informatica/metadata-2.md",
