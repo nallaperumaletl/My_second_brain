@@ -24,7 +24,7 @@ nalla@nallaperumal-aspire:~$ uname -mrs
 Linux 6.5.0-35-generic x86_64
 
 ```
-### To list down the all kenal images in our ubuntu system:
+### To list down the all kernal images in our ubuntu system:
 
 ```bash
 dpkg --list | egrep -i 'linux-image*|linux-header*'
