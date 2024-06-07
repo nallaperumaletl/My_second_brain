@@ -71,3 +71,5 @@ ls -ltrh /var/log/
 systemctl restart syslog
 service syslog restart
 ```
+
+Hello i'am in ubuntu..
