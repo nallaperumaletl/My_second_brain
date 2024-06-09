@@ -37,3 +37,4 @@ under $HIVE_HOME/scripts/metastore/upgrade/
 
 [pyhive for hive](https://www.google.com/search?sca_esv=b5d4132325b5528c&sxsrf=ADLYWIJNYTUxvkYQ6bzDa54WIyzdpQtaIA:1717913226306&q=how+to+configure+thrift+server+in+hive+and+connect+beeline&tbm=vid&source=lnms&prmd=visnbmtz&sa=X&ved=2ahUKEwjCou-87c2GAxW8zzgGHRLnDhcQ0pQJegQIDBAB&biw=1920&bih=907&dpr=1#fpstate=ive&vld=cid:b9d4ea2e,vid:nkK1kA2GMss,st:0)
 
+S
