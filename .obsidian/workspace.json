@@ -69,12 +69,16 @@
             "id": "20cc792be6a97e54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "10 - Big Ecosystem/hive-installation/hive-site.xml.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - Big Ecosystem/hive-installation/hive-3.1.2.md"
+                "file": "10 - Big Ecosystem/hive-installation/hive-site.xml.md"
               }
             }
           },
@@ -150,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Big Ecosystem/hive-installation/hive-3.1.2.md",
+                "file": "10 - Big Ecosystem/hive-installation/hive-site.xml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - Big Ecosystem/hive-installation/hive-3.1.2.md",
+                "file": "10 - Big Ecosystem/hive-installation/hive-site.xml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,12 +217,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9cf592ca69e694e1",
+  "active": "20cc792be6a97e54",
   "lastOpenFiles": [
+    "10 - Big Ecosystem/hive-installation/hive-3.1.2.md",
     "10 - Big Ecosystem/hive-installation/hive-site.xml.md",
     "10 - Big Ecosystem/hive-installation/thrift-server beeline.md",
     "10 - Big Ecosystem/upgrade-dbeaver in ubuntu.md",
-    "10 - Big Ecosystem/hive-installation/hive-3.1.2.md",
     "beeline_in_hive.md",
     "10 - Big Ecosystem/hue installaion/hue.md",
     "10 - Big Ecosystem/hue installaion",

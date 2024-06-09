@@ -1,3 +1,21 @@
+This is my hive-site xml works well with beeline, hiveserver2
+ we have to do some changes in hdfs--> core-site.xml
+ for group and users
+
+#### core-site.xml -> under hadoop
+```xml
+<property>
+     <name>hadoop.proxyuser.server.hosts</name> 
+     <value>*</value> 
+</property> 
+<property>
+     <name>hadoop.proxyuser.server.groups</name>
+     <value>*</value>
+</property>
+```
+
+
+#### hive-site.xml -> under hive
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
@@ -4808,7 +4826,7 @@
   </property>
   <property>
     <name>hive.server2.enable.doAs</name>
-    <value>true</value>
+    <value>false</value>
     <description>
       Setting this property to true will have HiveServer2 execute
       Hive operations as the user making the calls to it.
@@ -6908,3 +6926,4 @@
   </property>
 </configuration>
 ```
+
