@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "849951d9cde916c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Big Ecosystem/hue installaion/hue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "178d35d19b10707d",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "5bf726c2f178ddaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Big Ecosystem/hive-installation/thrift-server beeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1097fe685de2894f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Big Ecosystem/hive-installation/hive-site.xml.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cf592ca69e694e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Big Ecosystem/hive-installation/hive-3.1.2.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -78,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,12 +171,12 @@
   },
   "active": "20cc792be6a97e54",
   "lastOpenFiles": [
+    "10 - Big Ecosystem/hue installaion/hue.md",
+    "10 - Big Ecosystem/hive-installation/thrift-server beeline.md",
     "10 - Big Ecosystem/hive-installation/hive-3.1.2.md",
     "10 - Big Ecosystem/hive-installation/hive-site.xml.md",
-    "10 - Big Ecosystem/hive-installation/thrift-server beeline.md",
     "10 - Big Ecosystem/upgrade-dbeaver in ubuntu.md",
     "beeline_in_hive.md",
-    "10 - Big Ecosystem/hue installaion/hue.md",
     "10 - Big Ecosystem/hue installaion",
     "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
     "10 - Big Ecosystem/hive-installation",
