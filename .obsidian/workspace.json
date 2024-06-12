@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Informatica/metadata-2.md"
+                "file": "09 - Informatica/metadata-1.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Informatica/metadata-2.md",
+                "file": "09 - Informatica/metadata-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Informatica/metadata-2.md",
+                "file": "09 - Informatica/metadata-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,13 +243,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af07859b214cefb3",
+  "active": "39d432911a5e6686",
   "lastOpenFiles": [
+    "09 - Informatica/metadata-2.md",
     "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
     "08 - Ubuntu/some commands/bashrc file.md",
     "08 - Ubuntu/some commands/history.sh.md",
     "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
-    "09 - Informatica/metadata-2.md",
     "10 - Big Ecosystem/Apache superset/superset.md",
     "10 - Big Ecosystem/Apache superset",
     "10 - Big Ecosystem",
