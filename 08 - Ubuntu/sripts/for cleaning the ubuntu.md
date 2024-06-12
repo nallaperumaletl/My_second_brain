@@ -6,7 +6,7 @@ sudo apt-get clean
 # go and check the cd /var/cache/apt/archives | ls -ltrh --> after clean command
 sudo apt-get autoclean
 ```
-## To verify which kernel we are using
+## To verify which kernal we are using
 
 ```bash
 uname -a
@@ -24,7 +24,7 @@ nalla@nallaperumal-aspire:~$ uname -mrs
 Linux 6.5.0-35-generic x86_64
 
 ```
-### To list down the all kernel images in our ubuntu system:
+### To list down the all kernal images in our ubuntu system:
 
 ```bash
 dpkg --list | egrep -i 'linux-image*|linux-header*'
@@ -71,5 +71,3 @@ ls -ltrh /var/log/
 systemctl restart syslog
 service syslog restart
 ```
-
-Hello i'am in ubuntu..
