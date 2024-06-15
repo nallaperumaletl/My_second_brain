@@ -233,3 +233,4 @@ alias hstop='/home/nalla/apps/hadoop-2.9.1/sbin/stop-dfs.sh; /home/nalla/apps/ha
 
 nalla@nallaperumal-aspire:~$ 
 ```
+
