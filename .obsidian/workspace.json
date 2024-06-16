@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abcc3b377aa0f8a4",
+        "id": "e968db887833ff04",
         "type": "tabs",
         "children": [
           {
-            "id": "39070c56e830cbb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-05-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f45ea0aac367a5b2",
+            "id": "e7bd230fc034c497",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +20,19 @@
             }
           },
           {
-            "id": "9d5b15c3dc6ffdb2",
+            "id": "5866aaa02b34db53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Ubuntu/some commands/bashrc file.md",
+                "file": "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 325.5
   },
   "right": {
     "id": "51458ac6ba7da6d9",
@@ -110,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Ubuntu/some commands/bashrc file.md"
+                "file": "08 - Ubuntu/sripts/for cleaning the ubuntu.md"
               }
             }
           },
@@ -120,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Ubuntu/some commands/bashrc file.md",
+                "file": "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Ubuntu/some commands/bashrc file.md",
+                "file": "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,30 +166,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d5b15c3dc6ffdb2",
+  "active": "5866aaa02b34db53",
   "lastOpenFiles": [
     "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
-    "2024-05-23.md",
     "08 - Ubuntu/some commands/bashrc file.md",
-    "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
     "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
-    "08 - Ubuntu/some commands/history.sh.md",
-    "09 - Informatica/date function -oracle.md",
-    "09 - Informatica/metadata-2.md",
-    "09 - Informatica/metadata-1.md",
     "10 - Big Ecosystem/Apache superset/superset.md",
-    "10 - Big Ecosystem/Apache superset",
-    "10 - Big Ecosystem",
-    "08 - Ubuntu/some commands/journal.md",
-    "conflict-files-obsidian-git.md",
+    "08 - Ubuntu/some commands/history.sh.md",
+    "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
+    "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
+    "10 - Big Ecosystem/hive-installation/hive-site.xml.md",
+    "10 - Big Ecosystem/hue installaion/hue.md",
+    "10 - Big Ecosystem/hive-installation/thrift-server beeline.md",
+    "10 - Big Ecosystem/hive-installation/hive-3.1.2.md",
+    "10 - Big Ecosystem/upgrade-dbeaver in ubuntu.md",
+    "beeline_in_hive.md",
+    "10 - Big Ecosystem/hue installaion",
+    "10 - Big Ecosystem/hive-installation",
+    "09 - Informatica/metadata-2.md",
+    "04 - TCL Neuron script/table-profiler.sh.md",
+    "09 - Informatica/metadata-1.md",
     "08 - Ubuntu/sripts",
+    "09 - Informatica/date function -oracle.md",
+    "10 - Big Ecosystem/Apache superset",
+    "Untitled",
+    "10 - Big Ecosystem",
+    "09 - All about Big Data/sticky Notes.md",
+    "09 - Informatica",
+    "2024-05-23.md",
+    "09 - All about Big Data",
+    "conflict-files-obsidian-git.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
-    "04 - TCL Neuron script/metadata-collector.sh.md",
+    "06 - Nalla Random/Just.md",
+    "06 - Nalla Random/Git Useful cmd.md",
     "88 - Assets/Attachments/Pasted image 20240601202924.png",
     "88 - Assets/Attachments/Pasted image 20240601202844.png",
     "88 - Assets/Attachments/Pasted image 20240601202753.png",
@@ -212,25 +214,11 @@
     "88 - Assets/Attachments/Pasted image 20240601202342.png",
     "88 - Assets/Attachments/Pasted image 20240601202300.png",
     "88 - Assets/Attachments/Pasted image 20240601202221.png",
-    "05 - Bigdata-Quiz/week-3 Quiz.md",
-    "05 - Bigdata-Quiz/week-3 QUiz",
-    "05 - Bigdata-Quiz/week-4 QUiz",
-    "07 - Trial & Error/TracingLevel.txt",
-    "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
-    "02 - Assets/excalidraw template library/data-platform.excalidrawlib",
     "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
     "02 - Assets/excalidraw template library/data-processing.excalidrawlib",
-    "02 - Assets/excalidraw template library",
     "04 - TCL Neuron script/query_extractor.sh.md",
-    "04 - TCL Neuron script/table-profiler.sh.md",
     "04 - TCL Neuron script/metadata-processor.sh.md",
-    "06 - Nalla Random/Just.md",
-    "06 - Nalla Random/Git Useful cmd.md",
     "07 - Trial & Error/Trial.md",
-    "03 - TCL/Tricks & Tips.md",
     "BigData/Untitled.canvas"
   ]
 }
