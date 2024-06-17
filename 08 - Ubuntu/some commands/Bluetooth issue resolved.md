@@ -25,3 +25,8 @@ notify-send "pulseaudio enabled & started connect OneplusZ2 !"
 ```bash
 chmod +x bluetooth_start_pulseaudio.sh
 ```
+
+```bash
+ssh itv012596@51.161.13.110
+mxp3fbg00xx28xjcwz6lba0gbo8mi4w8
+```
