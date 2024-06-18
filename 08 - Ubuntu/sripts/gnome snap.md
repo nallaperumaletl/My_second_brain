@@ -1,6 +1,8 @@
 
 clearing IDEAS:
 
+[https://askubuntu.com/questions/1335229/how-to-deal-with-snap-using-a-lot-of-storage-space]()
+
 [https://askubuntu.com/questions/1462400/removing-old-and-unneeded-snaps]()
 
 [https://askubuntu.com/questions/1035915/how-to-remove-snap-from-ubuntu/1035917#1035917]()
