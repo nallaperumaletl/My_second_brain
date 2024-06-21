@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f015c00cca48bfc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5086f593c7b0322b",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Ubuntu/sripts/gnome snap.md"
+                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md"
               }
             }
           },
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Ubuntu/sripts/gnome snap.md",
+                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Ubuntu/sripts/gnome snap.md",
+                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,12 +195,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7bd230fc034c497",
+  "active": "f015c00cca48bfc3",
   "lastOpenFiles": [
-    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
-    "08 - Ubuntu/sripts/gnome snap.md",
-    "05 - Bigdata-Quiz/week-6 Quiz.md",
     "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
+    "08 - Ubuntu/sripts/gnome snap.md",
+    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+    "05 - Bigdata-Quiz/week-6 Quiz.md",
     "88 - Assets/Attachments/Pasted image 20240616183437.png",
     "88 - Assets/Attachments/Pasted image 20240616183409.png",
     "88 - Assets/Attachments/Pasted image 20240616183336.png",
