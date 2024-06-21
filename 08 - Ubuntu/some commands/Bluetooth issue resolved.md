@@ -30,3 +30,4 @@ chmod +x bluetooth_start_pulseaudio.sh
 ssh itv012596@51.161.13.110
 mxp3fbg00xx28xjcwz6lba0gbo8mi4w8
 ```
+systemctl --user enable pulseaudio && systemctl --user start pulseaudio && notify-send "pulseaudio enabled & started connect OneplusZ2 !"
