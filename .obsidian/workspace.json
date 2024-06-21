@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+                "file": "08 - Ubuntu/some commands/gnome extension.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md"
+                "file": "08 - Ubuntu/some commands/gnome extension.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+                "file": "08 - Ubuntu/some commands/gnome extension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+                "file": "08 - Ubuntu/some commands/gnome extension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,9 +197,10 @@
   },
   "active": "f015c00cca48bfc3",
   "lastOpenFiles": [
+    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+    "08 - Ubuntu/some commands/gnome extension.md",
     "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
     "08 - Ubuntu/sripts/gnome snap.md",
-    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
     "05 - Bigdata-Quiz/week-6 Quiz.md",
     "88 - Assets/Attachments/Pasted image 20240616183437.png",
     "88 - Assets/Attachments/Pasted image 20240616183409.png",
@@ -242,7 +243,6 @@
     "06 - Nalla Random/Git Useful cmd.md",
     "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
     "02 - Assets/excalidraw template library/data-processing.excalidrawlib",
-    "04 - TCL Neuron script/query_extractor.sh.md",
     "BigData/Untitled.canvas"
   ]
 }
