@@ -29,9 +29,10 @@ systemctl stop superset.service
 systemctl stop mysql.service
 #systemctl status mysql.service
 notify-send "stopped mysql.service & superset.service"
-echo "to enable mysql service"
-echo "systemctl start mysql.service"
-echo "to enable superset service"
-echo "systemctl start superset.service"
+echo "to enable mysql service:"
+echo "\e[93m  systemctl start mysql.service\e[0m"
+echo "to enable superset service:"
+echo "\e[93m  systemctl start superset.service\e[0m"
 echo ""
+
 ```
