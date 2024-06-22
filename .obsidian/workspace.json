@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "b54b326201522322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5086f593c7b0322b",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Ubuntu/some commands/services in ubuntu.md"
+                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md"
               }
             }
           },
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Ubuntu/some commands/services in ubuntu.md",
+                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Ubuntu/some commands/services in ubuntu.md",
+                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,10 +219,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5496a9224ab8cab7",
+  "active": "b54b326201522322",
   "lastOpenFiles": [
-    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
     "08 - Ubuntu/some commands/services in ubuntu.md",
+    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
     "08 - Ubuntu/some commands/gnome extension.md",
     "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
     "08 - Ubuntu/sripts/gnome snap.md",
