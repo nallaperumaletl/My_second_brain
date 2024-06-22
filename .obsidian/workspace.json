@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+                "file": "08 - Ubuntu/some commands/services in ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md"
+                "file": "08 - Ubuntu/some commands/services in ubuntu.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+                "file": "08 - Ubuntu/some commands/services in ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+                "file": "08 - Ubuntu/some commands/services in ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,8 +209,9 @@
   },
   "active": "5496a9224ab8cab7",
   "lastOpenFiles": [
-    "08 - Ubuntu/some commands/gnome extension.md",
     "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+    "08 - Ubuntu/some commands/services in ubuntu.md",
+    "08 - Ubuntu/some commands/gnome extension.md",
     "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
     "08 - Ubuntu/sripts/gnome snap.md",
     "05 - Bigdata-Quiz/week-6 Quiz.md",
@@ -252,7 +253,6 @@
     "conflict-files-obsidian-git.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
     "06 - Nalla Random/Just.md",
-    "06 - Nalla Random/Git Useful cmd.md",
     "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
     "02 - Assets/excalidraw template library/data-processing.excalidrawlib",
     "BigData/Untitled.canvas"
