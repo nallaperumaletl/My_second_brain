@@ -1,6 +1,7 @@
 > [!tip]- ubuntu-tips
 > bluetooth connection for OnePlusZ2 bud
 ==**Oneplus z2**== bud issue resolved by using this command:
+
 ```c
 systemctl --user enable pulseaudio
 systemctl --user start pulseaudio
@@ -25,9 +26,3 @@ notify-send "pulseaudio enabled & started connect OneplusZ2 !"
 ```bash
 chmod +x bluetooth_start_pulseaudio.sh
 ```
-
-```bash
-ssh itv012596@51.161.13.110
-mxp3fbg00xx28xjcwz6lba0gbo8mi4w8
-```
-systemctl --user enable pulseaudio && systemctl --user start pulseaudio && notify-send "pulseaudio enabled & started connect OneplusZ2 !"
