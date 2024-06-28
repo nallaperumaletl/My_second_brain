@@ -4,30 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b828761faf0e2464",
+        "id": "604e447d07832465",
         "type": "tabs",
         "children": [
           {
-            "id": "73aa3a6c176e7948",
+            "id": "ada1c414106e0d8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "17cee9696caf18ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Bigdata-Quiz/week-6 Quiz.md",
-                "mode": "preview",
-                "source": true
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 325.5
   },
   "right": {
     "id": "51458ac6ba7da6d9",
@@ -97,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-7 Quiz.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -107,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,58 +153,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73aa3a6c176e7948",
+  "active": "ada1c414106e0d8e",
   "lastOpenFiles": [
-    "05 - Bigdata-Quiz/week-6 Quiz.md",
-    "05 - Bigdata-Quiz/week-7 Quiz.md",
-    "07 - Trial & Error/Trial.md",
-    "88 - Assets/Attachments/Pasted image 20240628125842.png",
-    "88 - Assets/Attachments/Pasted image 20240628125726.png",
-    "88 - Assets/Attachments/Pasted image 20240628125700.png",
-    "88 - Assets/Attachments/Pasted image 20240628125433.png",
-    "88 - Assets/Attachments/Pasted image 20240628125331.png",
     "88 - Assets/Attachments/Pasted image 20240628125231.png",
     "88 - Assets/Attachments/Pasted image 20240628125101.png",
     "88 - Assets/Attachments/Pasted image 20240628125023.png",
     "88 - Assets/Attachments/Pasted image 20240628124938.png",
     "88 - Assets/Attachments/Pasted image 20240628124900.png",
-    "2024-05-23.md",
-    "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
-    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
-    "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
-    "05 - Bigdata-Quiz/week-4 Quiz.md",
-    "08 - Ubuntu/some commands/history.sh.md",
-    "08 - Ubuntu/some commands/bashrc file.md",
-    "09 - Informatica/date function -oracle.md",
-    "09 - Informatica/metadata-2.md",
-    "09 - Informatica/metadata-1.md",
-    "10 - Big Ecosystem/Apache superset/superset.md",
-    "10 - Big Ecosystem/Apache superset",
-    "10 - Big Ecosystem",
-    "08 - Ubuntu/some commands/journal.md",
+    "88 - Assets/Attachments/Pasted image 20240628124748.png",
+    "88 - Assets/Attachments/Pasted image 20240628124634.png",
+    "88 - Assets/Attachments/Pasted image 20240628124542.png",
+    "88 - Assets/Attachments/Pasted image 20240628124459.png",
+    "88 - Assets/Attachments/Pasted image 20240628124348.png",
+    "88 - Assets/Attachments/Pasted image 20240628124300.png",
+    "05 - Bigdata-Quiz/week-7 Quiz.md",
     "conflict-files-obsidian-git.md",
-    "08 - Ubuntu/sripts",
-    "04 - TCL Neuron script/metadata-collector.sh.md",
-    "05 - Bigdata-Quiz/week-3 Quiz.md",
-    "05 - Bigdata-Quiz/week-3 QUiz",
-    "05 - Bigdata-Quiz/week-4 QUiz",
-    "07 - Trial & Error/TracingLevel.txt",
+    "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
+    "08 - Ubuntu/sripts/gnome snap.md",
+    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+    "08 - Ubuntu/some commands/services in ubuntu.md",
+    "08 - Ubuntu/some commands/gnome extension.md",
+    "05 - Bigdata-Quiz/week-6 Quiz.md",
+    "08 - Ubuntu/some commands/bashrc file.md",
+    "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
+    "10 - Big Ecosystem/Apache superset/superset.md",
+    "08 - Ubuntu/some commands/history.sh.md",
     "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
-    "02 - Assets/excalidraw template library/data-platform.excalidrawlib",
+    "10 - Big Ecosystem/hive-installation/hive-site.xml.md",
+    "10 - Big Ecosystem/hue installaion/hue.md",
+    "10 - Big Ecosystem/hive-installation/thrift-server beeline.md",
+    "10 - Big Ecosystem/hive-installation/hive-3.1.2.md",
+    "10 - Big Ecosystem/upgrade-dbeaver in ubuntu.md",
+    "beeline_in_hive.md",
+    "10 - Big Ecosystem/hue installaion",
+    "10 - Big Ecosystem/hive-installation",
+    "09 - Informatica/metadata-2.md",
+    "04 - TCL Neuron script/table-profiler.sh.md",
+    "09 - Informatica/metadata-1.md",
+    "08 - Ubuntu/sripts",
+    "09 - Informatica/date function -oracle.md",
+    "10 - Big Ecosystem/Apache superset",
+    "Untitled",
+    "10 - Big Ecosystem",
+    "09 - All about Big Data/sticky Notes.md",
+    "09 - Informatica",
+    "2024-05-23.md",
+    "09 - All about Big Data",
     "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
     "02 - Assets/excalidraw template library/data-processing.excalidrawlib",
-    "02 - Assets/excalidraw template library",
-    "04 - TCL Neuron script/query_extractor.sh.md",
-    "04 - TCL Neuron script/table-profiler.sh.md",
-    "04 - TCL Neuron script/metadata-processor.sh.md",
     "BigData/Untitled.canvas"
   ]
 }

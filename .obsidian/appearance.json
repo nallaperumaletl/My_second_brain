@@ -5,8 +5,7 @@
   "enabledCssSnippets": [
     "nalla_customize_heading_color",
     "Colored_Sidebar_Items",
-    "Zoom_image",
-    "select_image"
+    "Zoom_image"
   ],
   "nativeMenus": false,
   "showViewHeader": true
