@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "9a089352943f35f4",
+    "id": "2c8f52a64f5870bb",
     "type": "split",
     "children": [
       {
-        "id": "604e447d07832465",
+        "id": "46051afbc39000da",
         "type": "tabs",
         "children": [
           {
-            "id": "ada1c414106e0d8e",
+            "id": "d899f57e32456eb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e8ff292bcf412227",
+    "id": "011734c058287095",
     "type": "split",
     "children": [
       {
-        "id": "2d80066914eeeeec",
+        "id": "04d62dd7b6d60080",
         "type": "tabs",
         "children": [
           {
-            "id": "85b5b9b748906bee",
+            "id": "b729bf1854239b0b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "48f24c69cb0e8949",
+            "id": "2fac766c0fafe2db",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "a121097a2bfbb74e",
+            "id": "de7febc53dea4c7c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,40 +65,45 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 300
   },
   "right": {
-    "id": "51458ac6ba7da6d9",
+    "id": "6a70d201097d7cd3",
     "type": "split",
     "children": [
       {
-        "id": "93c21eaa67545f12",
+        "id": "16c566ff57d26ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "da7cf3315902375e",
+            "id": "07198b221847f917",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7d45f37cecf78d3b",
+            "id": "fd5029d42a728d0b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "846cbb889f6402f8",
+            "id": "f4fba8304188f68e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -113,32 +114,14 @@
             }
           },
           {
-            "id": "39de48a88736e369",
+            "id": "adadaf67715165ca",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "653cb8c53ddae23e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,60 +135,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ada1c414106e0d8e",
-  "lastOpenFiles": [
-    "88 - Assets/Attachments/Pasted image 20240628125231.png",
-    "88 - Assets/Attachments/Pasted image 20240628125101.png",
-    "88 - Assets/Attachments/Pasted image 20240628125023.png",
-    "88 - Assets/Attachments/Pasted image 20240628124938.png",
-    "88 - Assets/Attachments/Pasted image 20240628124900.png",
-    "88 - Assets/Attachments/Pasted image 20240628124748.png",
-    "88 - Assets/Attachments/Pasted image 20240628124634.png",
-    "88 - Assets/Attachments/Pasted image 20240628124542.png",
-    "88 - Assets/Attachments/Pasted image 20240628124459.png",
-    "88 - Assets/Attachments/Pasted image 20240628124348.png",
-    "88 - Assets/Attachments/Pasted image 20240628124300.png",
-    "05 - Bigdata-Quiz/week-7 Quiz.md",
-    "conflict-files-obsidian-git.md",
-    "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
-    "08 - Ubuntu/sripts/gnome snap.md",
-    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
-    "08 - Ubuntu/some commands/services in ubuntu.md",
-    "08 - Ubuntu/some commands/gnome extension.md",
-    "05 - Bigdata-Quiz/week-6 Quiz.md",
-    "08 - Ubuntu/some commands/bashrc file.md",
-    "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
-    "10 - Big Ecosystem/Apache superset/superset.md",
-    "08 - Ubuntu/some commands/history.sh.md",
-    "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "10 - Big Ecosystem/hive-installation/hive-site.xml.md",
-    "10 - Big Ecosystem/hue installaion/hue.md",
-    "10 - Big Ecosystem/hive-installation/thrift-server beeline.md",
-    "10 - Big Ecosystem/hive-installation/hive-3.1.2.md",
-    "10 - Big Ecosystem/upgrade-dbeaver in ubuntu.md",
-    "beeline_in_hive.md",
-    "10 - Big Ecosystem/hue installaion",
-    "10 - Big Ecosystem/hive-installation",
-    "09 - Informatica/metadata-2.md",
-    "04 - TCL Neuron script/table-profiler.sh.md",
-    "09 - Informatica/metadata-1.md",
-    "08 - Ubuntu/sripts",
-    "09 - Informatica/date function -oracle.md",
-    "10 - Big Ecosystem/Apache superset",
-    "Untitled",
-    "10 - Big Ecosystem",
-    "09 - All about Big Data/sticky Notes.md",
-    "09 - Informatica",
-    "2024-05-23.md",
-    "09 - All about Big Data",
-    "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
-    "02 - Assets/excalidraw template library/data-processing.excalidrawlib",
-    "BigData/Untitled.canvas"
-  ]
+  "active": "d899f57e32456eb8",
+  "lastOpenFiles": []
 }
