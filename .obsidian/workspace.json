@@ -4,105 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "abcc3b377aa0f8a4",
+        "id": "b828761faf0e2464",
         "type": "tabs",
         "children": [
           {
-            "id": "39070c56e830cbb3",
+            "id": "73aa3a6c176e7948",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f45ea0aac367a5b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b96ba57357daec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef670876d3c867e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Ubuntu/some commands/history.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72f5edbe397b8fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "680acd0fca8f0076",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "a506248961801f3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Bigdata-Quiz/week-4 Quiz.md",
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "c16a0aa43103f36d",
+            "id": "992a81b7cf83a56f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "07 - Trial & Error/Trial.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "17cee9696caf18ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Bigdata-Quiz/week-6 Quiz.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md"
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md"
               }
             }
           },
@@ -178,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,27 +182,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f45ea0aac367a5b2",
+  "active": "73aa3a6c176e7948",
   "lastOpenFiles": [
-    "07 - Trial & Error/Trial.md",
-    "05 - Bigdata-Quiz/week-4 Quiz.md",
+    "88 - Assets/Attachments/Pasted image 20240628125842.png",
+    "88 - Assets/Attachments/Pasted image 20240628125726.png",
+    "88 - Assets/Attachments/Pasted image 20240628125700.png",
+    "88 - Assets/Attachments/Pasted image 20240628125433.png",
+    "88 - Assets/Attachments/Pasted image 20240628125331.png",
+    "88 - Assets/Attachments/Pasted image 20240628125231.png",
+    "88 - Assets/Attachments/Pasted image 20240628125101.png",
+    "88 - Assets/Attachments/Pasted image 20240628125023.png",
+    "88 - Assets/Attachments/Pasted image 20240628124938.png",
+    "88 - Assets/Attachments/Pasted image 20240628124900.png",
+    "88 - Assets/Attachments/Pasted image 20240628124748.png",
     "05 - Bigdata-Quiz/week-6 Quiz.md",
-    "08 - Ubuntu/some commands/bashrc file.md",
-    "08 - Ubuntu/some commands/history.sh.md",
+    "05 - Bigdata-Quiz/week-7 Quiz.md",
+    "07 - Trial & Error/Trial.md",
+    "2024-05-23.md",
     "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
     "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
-    "88 - Assets/Attachments/Pasted image 20240616183437.png",
-    "88 - Assets/Attachments/Pasted image 20240616183409.png",
-    "88 - Assets/Attachments/Pasted image 20240616183336.png",
-    "88 - Assets/Attachments/Pasted image 20240616183310.png",
-    "88 - Assets/Attachments/Pasted image 20240616183250.png",
-    "88 - Assets/Attachments/Pasted image 20240616183224.png",
-    "88 - Assets/Attachments/Pasted image 20240616183142.png",
-    "88 - Assets/Attachments/Pasted image 20240616183108.png",
-    "88 - Assets/Attachments/Pasted image 20240616183041.png",
-    "88 - Assets/Attachments/Pasted image 20240616183017.png",
-    "2024-05-23.md",
     "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
+    "05 - Bigdata-Quiz/week-4 Quiz.md",
+    "08 - Ubuntu/some commands/history.sh.md",
+    "08 - Ubuntu/some commands/bashrc file.md",
     "09 - Informatica/date function -oracle.md",
     "09 - Informatica/metadata-2.md",
     "09 - Informatica/metadata-1.md",
@@ -287,8 +230,6 @@
     "04 - TCL Neuron script/query_extractor.sh.md",
     "04 - TCL Neuron script/table-profiler.sh.md",
     "04 - TCL Neuron script/metadata-processor.sh.md",
-    "06 - Nalla Random/Just.md",
-    "06 - Nalla Random/Git Useful cmd.md",
     "BigData/Untitled.canvas"
   ]
 }
