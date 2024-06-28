@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-6 Quiz.md"
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md"
               }
             }
           },
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-6 Quiz.md",
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-6 Quiz.md",
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +170,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17cee9696caf18ab",
+  "active": "73aa3a6c176e7948",
   "lastOpenFiles": [
+    "05 - Bigdata-Quiz/week-6 Quiz.md",
     "05 - Bigdata-Quiz/week-7 Quiz.md",
     "07 - Trial & Error/Trial.md",
     "88 - Assets/Attachments/Pasted image 20240628125842.png",
@@ -185,7 +185,6 @@
     "88 - Assets/Attachments/Pasted image 20240628125023.png",
     "88 - Assets/Attachments/Pasted image 20240628124938.png",
     "88 - Assets/Attachments/Pasted image 20240628124900.png",
-    "05 - Bigdata-Quiz/week-6 Quiz.md",
     "2024-05-23.md",
     "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
     "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
