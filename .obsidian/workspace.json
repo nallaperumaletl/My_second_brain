@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "9a089352943f35f4",
+    "id": "96f1da3e1ee67feb",
     "type": "split",
     "children": [
       {
-        "id": "b828761faf0e2464",
+        "id": "41b37dee6a462cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "73aa3a6c176e7948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cc1cf1fd6b64a265",
+            "id": "ce8871e6e7186c55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,35 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "17cee9696caf18ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Bigdata-Quiz/week-6 Quiz.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e8ff292bcf412227",
+    "id": "1ac87767a92243a3",
     "type": "split",
     "children": [
       {
-        "id": "2d80066914eeeeec",
+        "id": "78e772587674f595",
         "type": "tabs",
         "children": [
           {
-            "id": "85b5b9b748906bee",
+            "id": "314a15f8b6f5b428",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "48f24c69cb0e8949",
+            "id": "0c155b7c3200ba6d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "a121097a2bfbb74e",
+            "id": "561e74574a284685",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,51 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 300
   },
   "right": {
-    "id": "51458ac6ba7da6d9",
+    "id": "f528bb68877e8acf",
     "type": "split",
     "children": [
       {
-        "id": "93c21eaa67545f12",
+        "id": "b153320d91f9a6a9",
         "type": "tabs",
         "children": [
           {
-            "id": "da7cf3315902375e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2024-05-23.md"
-              }
-            }
-          },
-          {
-            "id": "7d45f37cecf78d3b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "2024-05-23.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "846cbb889f6402f8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "39de48a88736e369",
+            "id": "83d241f8de356575",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -150,20 +92,44 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "653cb8c53ddae23e",
+            "id": "c55155ec25cff87a",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-05-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5119fa3505d3aa96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be6a0957b9b9b852",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-05-23.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,64 +138,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "cc1cf1fd6b64a265",
+  "active": "ce8871e6e7186c55",
   "lastOpenFiles": [
-    "05 - Bigdata-Quiz/week-7 Quiz.md",
-    "2024-05-23.md",
-    "05 - Bigdata-Quiz/week-6 Quiz.md",
-    "07 - Trial & Error/Trial.md",
-    "88 - Assets/Attachments/Pasted image 20240628125842.png",
-    "88 - Assets/Attachments/Pasted image 20240628125726.png",
-    "88 - Assets/Attachments/Pasted image 20240628125700.png",
-    "88 - Assets/Attachments/Pasted image 20240628125433.png",
-    "88 - Assets/Attachments/Pasted image 20240628125331.png",
-    "88 - Assets/Attachments/Pasted image 20240628125231.png",
-    "88 - Assets/Attachments/Pasted image 20240628125101.png",
-    "88 - Assets/Attachments/Pasted image 20240628125023.png",
-    "88 - Assets/Attachments/Pasted image 20240628124938.png",
-    "88 - Assets/Attachments/Pasted image 20240628124900.png",
-    "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
-    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
-    "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
-    "05 - Bigdata-Quiz/week-4 Quiz.md",
-    "08 - Ubuntu/some commands/history.sh.md",
-    "08 - Ubuntu/some commands/bashrc file.md",
-    "09 - Informatica/date function -oracle.md",
-    "09 - Informatica/metadata-2.md",
-    "09 - Informatica/metadata-1.md",
-    "10 - Big Ecosystem/Apache superset/superset.md",
-    "10 - Big Ecosystem/Apache superset",
-    "10 - Big Ecosystem",
-    "08 - Ubuntu/some commands/journal.md",
-    "conflict-files-obsidian-git.md",
-    "08 - Ubuntu/sripts",
-    "04 - TCL Neuron script/metadata-collector.sh.md",
-    "05 - Bigdata-Quiz/week-3 Quiz.md",
-    "05 - Bigdata-Quiz/week-3 QUiz",
-    "05 - Bigdata-Quiz/week-4 QUiz",
-    "07 - Trial & Error/TracingLevel.txt",
-    "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
-    "02 - Assets/excalidraw template library/data-platform.excalidrawlib",
-    "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
-    "02 - Assets/excalidraw template library/data-processing.excalidrawlib",
-    "02 - Assets/excalidraw template library",
-    "04 - TCL Neuron script/query_extractor.sh.md",
-    "04 - TCL Neuron script/table-profiler.sh.md",
-    "04 - TCL Neuron script/metadata-processor.sh.md",
-    "BigData/Untitled.canvas"
+    "My_second_brain/Ink/Writing/2024.4.29 - 22.05pm.writing",
+    "My_second_brain/Ink/Writing",
+    "My_second_brain/Ink",
+    "My_second_brain/88 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.24am.writing",
+    "My_second_brain/88 - Assets/Attachments/Ink/Writing",
+    "My_second_brain/88 - Assets/Attachments/Pasted image 20240628125842.png",
+    "My_second_brain/88 - Assets/Attachments/Pasted image 20240628125726.png",
+    "My_second_brain/88 - Assets/Attachments/Pasted image 20240628125700.png",
+    "My_second_brain/88 - Assets/Attachments/Pasted image 20240628125433.png",
+    "My_second_brain/88 - Assets/Attachments/Pasted image 20240628125331.png",
+    "My_second_brain/88 - Assets/Attachments/Pasted image 20240628125231.png",
+    "My_second_brain/88 - Assets/Attachments/Pasted image 20240628125101.png",
+    "My_second_brain/88 - Assets/Attachments/Pasted image 20240628125023.png",
+    "My_second_brain/88 - Assets/Attachments/Pasted image 20240628124938.png",
+    "My_second_brain/88 - Assets/Attachments/Pasted image 20240628124900.png",
+    "My_second_brain/88 - Assets/Attachments/Ink",
+    "My_second_brain/88 - Assets/Attachments",
+    "My_second_brain/88 - Assets",
+    "My_second_brain/2024-05-23.md",
+    "My_second_brain/10 - Big Ecosystem/Apache superset/superset.md",
+    "My_second_brain/10 - Big Ecosystem/Apache superset",
+    "My_second_brain/10 - Big Ecosystem",
+    "My_second_brain/09 - Informatica/metadata-2.md",
+    "My_second_brain/09 - Informatica/metadata-1.md",
+    "My_second_brain/09 - Informatica/date function -oracle.md",
+    "My_second_brain/09 - Informatica",
+    "My_second_brain/08 - Ubuntu/sripts/for cleaning the ubuntu.md",
+    "My_second_brain/08 - Ubuntu/some commands/history.sh.md",
+    "My_second_brain/08 - Ubuntu/some commands/echo formatting on .bashrc.md",
+    "My_second_brain/08 - Ubuntu/some commands/bashrc file.md",
+    "My_second_brain/08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+    "My_second_brain/07 - Trial & Error/Trial.md",
+    "My_second_brain/06 - Nalla Random/Just.md",
+    "My_second_brain/06 - Nalla Random/Git Useful cmd.md",
+    "My_second_brain/05 - Bigdata-Quiz/week-7 Quiz.md",
+    "My_second_brain/05 - Bigdata-Quiz/week-6 Quiz.md",
+    "My_second_brain/05 - Bigdata-Quiz/week-4 Quiz.md",
+    "My_second_brain/05 - Bigdata-Quiz/week-3 Quiz.md",
+    "My_second_brain/04 - TCL Neuron script/table-profiler.sh.md",
+    "My_second_brain/04 - TCL Neuron script/query_extractor.sh.md",
+    "My_second_brain/04 - TCL Neuron script/metadata-processor.sh.md",
+    "My_second_brain/04 - TCL Neuron script/metadata-collector.sh.md",
+    "My_second_brain/03 - TCL/Tricks & Tips.md",
+    "My_second_brain/02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
+    "My_second_brain/02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
+    "My_second_brain/02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md"
   ]
 }
