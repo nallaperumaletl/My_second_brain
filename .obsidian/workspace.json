@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f884c55595a8db07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23.md"
+                "file": "05 - Bigdata-Quiz/week-7 Quiz.md"
               }
             }
           }
@@ -149,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce8871e6e7186c55",
+  "active": "f884c55595a8db07",
   "lastOpenFiles": [
+    "2024-05-23.md",
     "My_second_brain/Ink/Writing/2024.4.29 - 22.05pm.writing",
     "My_second_brain/Ink/Writing",
     "My_second_brain/Ink",
@@ -176,7 +190,6 @@
     "My_second_brain/09 - Informatica/metadata-2.md",
     "My_second_brain/09 - Informatica/metadata-1.md",
     "My_second_brain/09 - Informatica/date function -oracle.md",
-    "My_second_brain/09 - Informatica",
     "My_second_brain/08 - Ubuntu/sripts/for cleaning the ubuntu.md",
     "My_second_brain/08 - Ubuntu/some commands/history.sh.md",
     "My_second_brain/08 - Ubuntu/some commands/echo formatting on .bashrc.md",
