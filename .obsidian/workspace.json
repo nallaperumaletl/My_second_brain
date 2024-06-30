@@ -4,87 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b828761faf0e2464",
+        "id": "880ad87fe29cece1",
         "type": "tabs",
         "children": [
           {
-            "id": "73aa3a6c176e7948",
+            "id": "09558dc9bccd0136",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "252f9c2471ea610e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - TCL Neuron script/metadata-collector.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "249db6fa00441b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 - Informatica/metadata-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ed2023d6289ab81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Bigdata-Quiz/week-3 Quiz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "130e4e19a704a8d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Bigdata-Quiz/week-4 Quiz.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "17cee9696caf18ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Bigdata-Quiz/week-6 Quiz.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4443da5e4d987563",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,16 +150,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4443da5e4d987563",
+  "active": "09558dc9bccd0136",
   "lastOpenFiles": [
-    "05 - Bigdata-Quiz/week-7 Quiz.md",
     "05 - Bigdata-Quiz/week-6 Quiz.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
     "05 - Bigdata-Quiz/week-3 Quiz.md",
+    "09 - Informatica/metadata-1.md",
     "04 - TCL Neuron script/metadata-collector.sh.md",
+    "05 - Bigdata-Quiz/week-7 Quiz.md",
     "09 - Informatica/date function -oracle.md",
     "2024-05-23.md",
-    "09 - Informatica/metadata-1.md",
     "My_second_brain",
     "07 - Trial & Error/Trial.md",
     "88 - Assets/Attachments/Pasted image 20240628125842.png",
