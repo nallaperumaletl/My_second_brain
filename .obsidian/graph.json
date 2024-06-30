@@ -43,10 +43,10 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#bigdata-quiz  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 2158304
       }
     }
   ],
