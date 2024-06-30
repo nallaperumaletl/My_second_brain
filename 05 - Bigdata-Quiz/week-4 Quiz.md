@@ -5,7 +5,7 @@ tags:
   - quiz
 Related Note: "[[week-4 Quiz]]"
 ---
-
+### Ref:   [[week-3 Quiz]],   [[week-4 Quiz]],  [[week-6 Quiz]],  [[week-7 Quiz]]
 
 
 | ![[Pasted image 20240601200830.png]] | ![[Pasted image 20240601200925.png]] | ![[Pasted image 20240601201104.png]] |

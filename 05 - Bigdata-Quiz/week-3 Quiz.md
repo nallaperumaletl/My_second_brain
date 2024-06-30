@@ -5,7 +5,7 @@ tags:
   - bigdata
 Related Note: "[[week-3 Quiz]]"
 ---
-
+### Ref:   [[week-3 Quiz]],   [[week-4 Quiz]],  [[week-6 Quiz]],  [[week-7 Quiz]]
 
 | ![[Pasted image 20240525184814.png]] | ![[Pasted image 20240525184918.png]] | ![[Pasted image 20240525185056.png]] |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
