@@ -11,8 +11,12 @@
             "id": "09558dc9bccd0136",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "10 - Big Ecosystem/Things to Explore.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10 - Big Ecosystem/Things to Explore.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10 - Big Ecosystem/Things to Explore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10 - Big Ecosystem/Things to Explore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +160,7 @@
   },
   "active": "09558dc9bccd0136",
   "lastOpenFiles": [
+    "10 - Big Ecosystem/Things to Explore.md",
     "05 - Bigdata-Quiz/week-6 Quiz.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
     "05 - Bigdata-Quiz/week-3 Quiz.md",
