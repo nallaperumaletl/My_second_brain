@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Big Ecosystem/Things to Explore.md",
-                "mode": "source",
-                "source": false
+                "file": "05 - Bigdata-Quiz/week-8 Quiz.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - Big Ecosystem/Things to Explore.md"
+                "file": "05 - Bigdata-Quiz/week-8 Quiz.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Big Ecosystem/Things to Explore.md",
+                "file": "05 - Bigdata-Quiz/week-8 Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - Big Ecosystem/Things to Explore.md",
+                "file": "05 - Bigdata-Quiz/week-8 Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,27 +160,28 @@
   },
   "active": "09558dc9bccd0136",
   "lastOpenFiles": [
-    "10 - Big Ecosystem/Things to Explore.md",
+    "05 - Bigdata-Quiz/week-7 Quiz.md",
+    "05 - Bigdata-Quiz/week-8 Quiz.md",
+    "88 - Assets/Attachments/Pasted image 20240716114126.png",
+    "88 - Assets/Attachments/Pasted image 20240716114004.png",
+    "88 - Assets/Attachments/Pasted image 20240716113902.png",
+    "88 - Assets/Attachments/Pasted image 20240716113834.png",
+    "88 - Assets/Attachments/Pasted image 20240716113806.png",
+    "88 - Assets/Attachments/Pasted image 20240716113742.png",
+    "88 - Assets/Attachments/Pasted image 20240716113720.png",
+    "88 - Assets/Attachments/Pasted image 20240716113655.png",
+    "88 - Assets/Attachments/Pasted image 20240716113633.png",
+    "88 - Assets/Attachments/Pasted image 20240716113614.png",
     "05 - Bigdata-Quiz/week-6 Quiz.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
+    "10 - Big Ecosystem/Things to Explore.md",
     "05 - Bigdata-Quiz/week-3 Quiz.md",
     "09 - Informatica/metadata-1.md",
     "04 - TCL Neuron script/metadata-collector.sh.md",
-    "05 - Bigdata-Quiz/week-7 Quiz.md",
     "09 - Informatica/date function -oracle.md",
     "2024-05-23.md",
     "My_second_brain",
     "07 - Trial & Error/Trial.md",
-    "88 - Assets/Attachments/Pasted image 20240628125842.png",
-    "88 - Assets/Attachments/Pasted image 20240628125726.png",
-    "88 - Assets/Attachments/Pasted image 20240628125700.png",
-    "88 - Assets/Attachments/Pasted image 20240628125433.png",
-    "88 - Assets/Attachments/Pasted image 20240628125331.png",
-    "88 - Assets/Attachments/Pasted image 20240628125231.png",
-    "88 - Assets/Attachments/Pasted image 20240628125101.png",
-    "88 - Assets/Attachments/Pasted image 20240628125023.png",
-    "88 - Assets/Attachments/Pasted image 20240628124938.png",
-    "88 - Assets/Attachments/Pasted image 20240628124900.png",
     "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
     "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
     "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
@@ -204,8 +205,6 @@
     "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
     "02 - Assets/excalidraw template library/data-processing.excalidrawlib",
     "04 - TCL Neuron script/query_extractor.sh.md",
-    "04 - TCL Neuron script/table-profiler.sh.md",
-    "04 - TCL Neuron script/metadata-processor.sh.md",
     "BigData/Untitled.canvas"
   ]
 }
