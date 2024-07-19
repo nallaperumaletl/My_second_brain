@@ -91,4 +91,20 @@
 </dl>
 ---
 
+### Table format:
+```tablleformat
+|           | Male | Female |
+| :-------- | :--- | :----- |
+| california| X    | X      |
+| arizona   | X    | X      |
+| Wisconsin | X    | X      |
+```
+
+|           | Male | Female |
+| :-------- | :--- | :----- |
+| california| X    | X      |
+| arizona   | X    | X      |
+| Wisconsin | X    | X      |
+
+---
 
