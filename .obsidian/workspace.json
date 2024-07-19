@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "3207700f623b3715",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "8abe2b66157c6526",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a65e177bc66086fb",
+  "active": "3207700f623b3715",
   "lastOpenFiles": [
     "05 - Bigdata-Quiz/week-4 Quiz.md",
     "05 - Bigdata-Quiz/week-5 Quiz.md",
