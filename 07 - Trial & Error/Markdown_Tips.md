@@ -37,6 +37,7 @@
 <b>Success:</b> This alert box indicates a successful or positive action.
 </div>
 
+
 ---
 ### Red boxes (alert-danger)
 ```html
