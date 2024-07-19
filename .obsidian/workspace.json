@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-8 Quiz.md",
+                "file": "05 - Bigdata-Quiz/week-9 Quiz.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "a65e177bc66086fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Bigdata-Quiz/week-5 Quiz.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7c753454b5fcb368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Bigdata-Quiz/week-6 Quiz.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-8 Quiz.md"
+                "file": "05 - Bigdata-Quiz/week-5 Quiz.md"
               }
             }
           },
@@ -95,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-8 Quiz.md",
+                "file": "05 - Bigdata-Quiz/week-5 Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Bigdata-Quiz/week-8 Quiz.md",
+                "file": "05 - Bigdata-Quiz/week-5 Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,21 +183,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09558dc9bccd0136",
+  "active": "a65e177bc66086fb",
   "lastOpenFiles": [
-    "05 - Bigdata-Quiz/week-7 Quiz.md",
-    "05 - Bigdata-Quiz/week-8 Quiz.md",
-    "88 - Assets/Attachments/Pasted image 20240716114126.png",
-    "88 - Assets/Attachments/Pasted image 20240716114004.png",
-    "88 - Assets/Attachments/Pasted image 20240716113902.png",
-    "88 - Assets/Attachments/Pasted image 20240716113834.png",
-    "88 - Assets/Attachments/Pasted image 20240716113806.png",
-    "88 - Assets/Attachments/Pasted image 20240716113742.png",
-    "88 - Assets/Attachments/Pasted image 20240716113720.png",
-    "88 - Assets/Attachments/Pasted image 20240716113655.png",
-    "88 - Assets/Attachments/Pasted image 20240716113633.png",
-    "88 - Assets/Attachments/Pasted image 20240716113614.png",
+    "88 - Assets/Attachments/Pasted image 20240719115441.png",
+    "88 - Assets/Attachments/Pasted image 20240719115204.png",
+    "88 - Assets/Attachments/Pasted image 20240719115152.png",
+    "88 - Assets/Attachments/Pasted image 20240719115110.png",
+    "88 - Assets/Attachments/Pasted image 20240719115032.png",
+    "88 - Assets/Attachments/Pasted image 20240719115014.png",
+    "88 - Assets/Attachments/Pasted image 20240719114934.png",
+    "88 - Assets/Attachments/Pasted image 20240719114922.png",
+    "88 - Assets/Attachments/Pasted image 20240719114848.png",
+    "88 - Assets/Attachments/Pasted image 20240719114836.png",
+    "88 - Assets/Attachments/Pasted image 20240719114818.png",
     "05 - Bigdata-Quiz/week-6 Quiz.md",
+    "05 - Bigdata-Quiz/week-5 Quiz.md",
+    "05 - Bigdata-Quiz/week-8 Quiz.md",
+    "05 - Bigdata-Quiz/week-9 Quiz.md",
+    "05 - Bigdata-Quiz/week-7 Quiz.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
     "10 - Big Ecosystem/Things to Explore.md",
     "05 - Bigdata-Quiz/week-3 Quiz.md",
@@ -200,11 +228,9 @@
     "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
     "02 - Excalidraw/Drawing 2024-05-26 00.21.00.excalidraw.md",
     "02 - Excalidraw/Drawing 2024-05-21 23.15.49.excalidraw.md",
-    "02 - Excalidraw/Drawing 2024-05-21 23.08.29.excalidraw.md",
     "02 - Assets/excalidraw template library/data-platform.excalidrawlib",
     "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
     "02 - Assets/excalidraw template library/data-processing.excalidrawlib",
-    "04 - TCL Neuron script/query_extractor.sh.md",
     "BigData/Untitled.canvas"
   ]
 }
