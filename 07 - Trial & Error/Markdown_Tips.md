@@ -4,6 +4,14 @@
 
 -----
 #  EXAMPLES:
+
+### FONT COLOUR:
+```html
+Colors: Use this code: 
+<font color=blue|red|green|pink|yellow>Text</font> 
+Not all markdown code works within a font tag, so review your colored text carefully
+```
+
 # COLORED NOTE BOXES
 ### Blue boxes (alert-info)
 ```html
