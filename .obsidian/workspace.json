@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "880ad87fe29cece1",
+        "id": "b7c577304f43898f",
         "type": "tabs",
         "children": [
           {
-            "id": "5b93022309380633",
+            "id": "b3370a660112e7bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 - git/Ubuntu fix Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2330d0b83f24925c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - Trial & Error/Markdown_Tips.md",
+                "file": "05 - Bigdata-Quiz/week-10 quiz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Trial & Error/Markdown_Tips.md"
+                "file": "05 - Bigdata-Quiz/week-10 quiz.md"
               }
             }
           },
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Trial & Error/Markdown_Tips.md",
+                "file": "05 - Bigdata-Quiz/week-10 quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Trial & Error/Markdown_Tips.md",
+                "file": "05 - Bigdata-Quiz/week-10 quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,26 +158,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2330d0b83f24925c",
+  "active": "b3370a660112e7bc",
   "lastOpenFiles": [
-    "11 - git/git restore.md",
+    "88 - Assets/Attachments/Pasted image 20240728160744.png",
+    "88 - Assets/Attachments/Pasted image 20240728160610.png",
+    "88 - Assets/Attachments/Pasted image 20240728160503.png",
+    "88 - Assets/Attachments/Pasted image 20240728160449.png",
+    "88 - Assets/Attachments/Pasted image 20240728160413.png",
+    "88 - Assets/Attachments/Pasted image 20240728160359.png",
+    "88 - Assets/Attachments/Pasted image 20240728160328.png",
+    "88 - Assets/Attachments/Pasted image 20240728160316.png",
+    "88 - Assets/Attachments/Pasted image 20240728160237.png",
+    "88 - Assets/Attachments/Pasted image 20240728160225.png",
+    "88 - Assets/Attachments/Pasted image 20240728160202.png",
     "07 - Trial & Error/Markdown_Tips.md",
+    "05 - Bigdata-Quiz/week-10 quiz.md",
     "11 - git/Ubuntu fix Obsidian.md",
+    "11 - git/git restore.md",
     "05 - Bigdata-Quiz/week-5 Quiz.md",
     "05 - Bigdata-Quiz/week-4 Quiz.md",
     "11 - git",
     "05 - Bigdata-Quiz/week-3 Quiz.md",
     "05 - Bigdata-Quiz/week-6 Quiz.md",
-    "88 - Assets/Attachments/Pasted image 20240719124849.png",
-    "88 - Assets/Attachments/Pasted image 20240719124831.png",
-    "88 - Assets/Attachments/Pasted image 20240719124810.png",
-    "88 - Assets/Attachments/Pasted image 20240719124735.png",
-    "88 - Assets/Attachments/Pasted image 20240719124723.png",
-    "88 - Assets/Attachments/Pasted image 20240719124705.png",
-    "88 - Assets/Attachments/Pasted image 20240719124649.png",
-    "88 - Assets/Attachments/Pasted image 20240719124626.png",
-    "88 - Assets/Attachments/Pasted image 20240719124610.png",
-    "88 - Assets/Attachments/Pasted image 20240719124546.png",
     "05 - Bigdata-Quiz/week-9 Quiz.md",
     "05 - Bigdata-Quiz/week-8 Quiz.md",
     "05 - Bigdata-Quiz/week-7 Quiz.md",
@@ -211,12 +200,10 @@
     "10 - Big Ecosystem/Apache superset",
     "10 - Big Ecosystem",
     "08 - Ubuntu/some commands/journal.md",
-    "conflict-files-obsidian-git.md",
     "08 - Ubuntu/sripts",
     "05 - Bigdata-Quiz/week-3 QUiz",
     "05 - Bigdata-Quiz/week-4 QUiz",
     "07 - Trial & Error/TracingLevel.txt",
-    "02 - Excalidraw/first Drawing 2024-05-21 23.07.11.excalidraw.md",
     "02 - Assets/excalidraw template library/data-platform.excalidrawlib",
     "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
     "BigData/Untitled.canvas"
