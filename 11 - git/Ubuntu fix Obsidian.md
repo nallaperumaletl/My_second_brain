@@ -32,3 +32,25 @@ Auto-Stashing in Tower
 If you're using the Tower Git client, you’ll notice that it helps you avoid these situations: whenever you have uncommitted local changes present and want to perform an action like Pull, Checkout or Merge, Tower will automatically offer to store these changes safely on a Stash.
 
 This way, you neither have to take any extra steps nor do you have to think about this anymore.
+
+
+## For this type of error while manual pull in Obsidian.
+```bash
+nalla@nallaperumal-aspire:~/Documents/GitHub/My_second_brain$ git status 
+On branch main
+Your branch is behind 'origin/main' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .obsidian/workspace.json
+
+no changes added to commit (use "git add" and/or "git commit -a")```
+### Use this
+```bash
+git restore .
+git pull origin main
+```
+
+
