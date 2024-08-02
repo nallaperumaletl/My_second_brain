@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a5d6ed5ea242596f",
+        "id": "f04f394632dedc0f",
         "type": "tabs",
         "children": [
           {
-            "id": "c9fefce998938905",
+            "id": "ab24264d86dac34e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Trial & Error/Markdown_Tips.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a751a51fa2c606de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - git/Ubuntu fix Obsidian.md",
+                "file": "08 - Ubuntu/sed.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 - git/Ubuntu fix Obsidian.md",
+                "file": "08 - Ubuntu/sed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 - git/Ubuntu fix Obsidian.md",
+                "file": "08 - Ubuntu/sed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 - git/Ubuntu fix Obsidian.md"
+                "file": "08 - Ubuntu/sed.md"
               }
             }
           }
@@ -163,8 +150,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a751a51fa2c606de",
+  "active": "ab24264d86dac34e",
   "lastOpenFiles": [
+    "08 - Ubuntu/sed.md",
+    "11 - git/Ubuntu fix Obsidian.md",
+    "07 - Trial & Error/Markdown_Tips.md",
     "88 - Assets/Attachments/Pasted image 20240728160744.png",
     "88 - Assets/Attachments/Pasted image 20240728160610.png",
     "88 - Assets/Attachments/Pasted image 20240728160503.png",
@@ -175,11 +165,8 @@
     "88 - Assets/Attachments/Pasted image 20240728160316.png",
     "88 - Assets/Attachments/Pasted image 20240728160237.png",
     "88 - Assets/Attachments/Pasted image 20240728160225.png",
-    "88 - Assets/Attachments/Pasted image 20240728160202.png",
     "05 - Bigdata-Quiz/week-10 quiz.md",
-    "07 - Trial & Error/Markdown_Tips.md",
     "11 - git/git restore.md",
-    "11 - git/Ubuntu fix Obsidian.md",
     "05 - Bigdata-Quiz/week-5 Quiz.md",
     "11 - git",
     "10 - Big Ecosystem/Things to Explore.md",
