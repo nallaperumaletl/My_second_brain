@@ -1,33 +1,33 @@
 {
   "main": {
-    "id": "96f1da3e1ee67feb",
+    "id": "9a089352943f35f4",
     "type": "split",
     "children": [
       {
-        "id": "a5d6ed5ea242596f",
+        "id": "b7c577304f43898f",
         "type": "tabs",
         "children": [
           {
-            "id": "c9fefce998938905",
+            "id": "b3370a660112e7bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Trial & Error/Markdown_Tips.md",
-                "mode": "source",
-                "source": false
+                "file": "05 - Bigdata-Quiz/week-10 Quiz.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
           {
-            "id": "a751a51fa2c606de",
+            "id": "86739674be93f55e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 - git/Ubuntu fix Obsidian.md",
-                "mode": "source",
-                "source": false
+                "file": "05 - Bigdata-Quiz/week-11 Quiz.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1ac87767a92243a3",
+    "id": "e8ff292bcf412227",
     "type": "split",
     "children": [
       {
-        "id": "78e772587674f595",
+        "id": "2d80066914eeeeec",
         "type": "tabs",
         "children": [
           {
-            "id": "314a15f8b6f5b428",
+            "id": "85b5b9b748906bee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "0c155b7c3200ba6d",
+            "id": "48f24c69cb0e8949",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "561e74574a284685",
+            "id": "a121097a2bfbb74e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,47 +82,40 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
-    "id": "f528bb68877e8acf",
+    "id": "51458ac6ba7da6d9",
     "type": "split",
     "children": [
       {
-        "id": "b153320d91f9a6a9",
+        "id": "93c21eaa67545f12",
         "type": "tabs",
         "children": [
           {
-            "id": "83d241f8de356575",
+            "id": "da7cf3315902375e",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "11 - git/Ubuntu fix Obsidian.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "05 - Bigdata-Quiz/week-11 Quiz.md"
               }
             }
           },
           {
-            "id": "c55155ec25cff87a",
+            "id": "7d45f37cecf78d3b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 - git/Ubuntu fix Obsidian.md",
+                "file": "05 - Bigdata-Quiz/week-11 Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5119fa3505d3aa96",
+            "id": "846cbb889f6402f8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +126,28 @@
             }
           },
           {
-            "id": "be6a0957b9b9b852",
+            "id": "39de48a88736e369",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "11 - git/Ubuntu fix Obsidian.md"
+                "file": "05 - Bigdata-Quiz/week-11 Quiz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "653cb8c53ddae23e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -152,64 +160,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a751a51fa2c606de",
+  "active": "86739674be93f55e",
   "lastOpenFiles": [
-    "88 - Assets/Attachments/Pasted image 20240728160744.png",
-    "88 - Assets/Attachments/Pasted image 20240728160610.png",
-    "88 - Assets/Attachments/Pasted image 20240728160503.png",
-    "88 - Assets/Attachments/Pasted image 20240728160449.png",
-    "88 - Assets/Attachments/Pasted image 20240728160413.png",
-    "88 - Assets/Attachments/Pasted image 20240728160359.png",
-    "88 - Assets/Attachments/Pasted image 20240728160328.png",
-    "88 - Assets/Attachments/Pasted image 20240728160316.png",
-    "88 - Assets/Attachments/Pasted image 20240728160237.png",
-    "88 - Assets/Attachments/Pasted image 20240728160225.png",
-    "88 - Assets/Attachments/Pasted image 20240728160202.png",
-    "05 - Bigdata-Quiz/week-10 quiz.md",
+    "05 - Bigdata-Quiz/week-10 Quiz.md",
     "07 - Trial & Error/Markdown_Tips.md",
-    "11 - git/git restore.md",
+    "05 - Bigdata-Quiz/week-11 Quiz.md",
+    "88 - Assets/Attachments/Pasted image 20240809202626.png",
+    "88 - Assets/Attachments/Pasted image 20240809202608.png",
+    "88 - Assets/Attachments/Pasted image 20240809202559.png",
+    "88 - Assets/Attachments/Pasted image 20240809202537.png",
+    "88 - Assets/Attachments/Pasted image 20240809202527.png",
+    "88 - Assets/Attachments/Pasted image 20240809202506.png",
+    "88 - Assets/Attachments/Pasted image 20240809202455.png",
+    "88 - Assets/Attachments/Pasted image 20240809202434.png",
+    "88 - Assets/Attachments/Pasted image 20240809202418.png",
+    "88 - Assets/Attachments/Pasted image 20240809202354.png",
     "11 - git/Ubuntu fix Obsidian.md",
+    "11 - git/git restore.md",
     "05 - Bigdata-Quiz/week-5 Quiz.md",
+    "05 - Bigdata-Quiz/week-4 Quiz.md",
     "11 - git",
-    "10 - Big Ecosystem/Things to Explore.md",
+    "05 - Bigdata-Quiz/week-3 Quiz.md",
+    "05 - Bigdata-Quiz/week-6 Quiz.md",
     "05 - Bigdata-Quiz/week-9 Quiz.md",
     "05 - Bigdata-Quiz/week-8 Quiz.md",
-    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
-    "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
-    "08 - Ubuntu/some commands/history.sh.md",
-    "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
-    "10 - Big Ecosystem/Apache superset/superset.md",
-    "08 - Ubuntu/some commands/bashrc file.md",
-    "05 - Bigdata-Quiz/week-6 Quiz.md",
-    "05 - Bigdata-Quiz/week-4 Quiz.md",
-    "05 - Bigdata-Quiz/week-3 Quiz.md",
     "05 - Bigdata-Quiz/week-7 Quiz.md",
+    "10 - Big Ecosystem/Things to Explore.md",
+    "09 - Informatica/metadata-1.md",
+    "04 - TCL Neuron script/metadata-collector.sh.md",
+    "09 - Informatica/date function -oracle.md",
     "2024-05-23.md",
-    "My_second_brain/Ink/Writing/2024.4.29 - 22.05pm.writing",
-    "My_second_brain/Ink/Writing",
-    "My_second_brain/Ink",
-    "My_second_brain/88 - Assets/Attachments/Ink/Writing/2024.4.26 - 0.24am.writing",
-    "My_second_brain/88 - Assets/Attachments/Ink/Writing",
-    "My_second_brain/88 - Assets/Attachments/Ink",
-    "My_second_brain/88 - Assets/Attachments",
-    "My_second_brain/88 - Assets",
-    "My_second_brain/2024-05-23.md",
-    "My_second_brain/10 - Big Ecosystem/Apache superset/superset.md",
-    "My_second_brain/10 - Big Ecosystem/Apache superset",
-    "My_second_brain/09 - Informatica/metadata-2.md",
-    "My_second_brain/09 - Informatica/metadata-1.md",
-    "My_second_brain/09 - Informatica/date function -oracle.md",
-    "My_second_brain/08 - Ubuntu/sripts/for cleaning the ubuntu.md"
+    "My_second_brain",
+    "07 - Trial & Error/Trial.md",
+    "08 - Ubuntu/some commands/echo formatting on .bashrc.md",
+    "08 - Ubuntu/some commands/Bluetooth issue resolved.md",
+    "08 - Ubuntu/sripts/for cleaning the ubuntu.md",
+    "08 - Ubuntu/some commands/history.sh.md",
+    "08 - Ubuntu/some commands/bashrc file.md",
+    "09 - Informatica/metadata-2.md",
+    "10 - Big Ecosystem/Apache superset/superset.md",
+    "10 - Big Ecosystem/Apache superset",
+    "10 - Big Ecosystem",
+    "08 - Ubuntu/sripts",
+    "05 - Bigdata-Quiz/week-3 QUiz",
+    "05 - Bigdata-Quiz/week-4 QUiz",
+    "07 - Trial & Error/TracingLevel.txt",
+    "02 - Assets/excalidraw template library/data-platform.excalidrawlib",
+    "02 - Assets/excalidraw template library/microsoft-azure-cloud-icons.excalidrawlib",
+    "BigData/Untitled.canvas"
   ]
 }
